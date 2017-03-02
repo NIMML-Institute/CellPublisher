@@ -1,0 +1,1390 @@
+<?xml version="1.0" ?>
+<markers>
+	<marker class="PROTEIN" id="s636" name="14-3-3" x="3628" y="4352"/>
+	<marker class="PROTEIN" id="s194" name="14-3-3" x="3756" y="4431"/>
+	<marker class="PROTEIN" id="s182" name="14-3-3" x="3627" y="4025"/>
+	<marker class="SIMPLE_MOLECULE" id="s1052" name="?" x="5191" y="2470"/>
+	<marker class="GENE" id="s1298" name="A20" x="6167" y="5816"/>
+	<marker class="PROTEIN" id="s1486" name="A20" x="5779" y="4250"/>
+	<marker class="PROTEIN" id="s780" name="A20" x="6361" y="5338"/>
+	<marker class="PROTEIN" id="s1486" name="A20" x="6463" y="5312"/>
+	<marker class="RNA" id="s1299" name="A20" x="6173" y="5482"/>
+	<marker class="PROTEIN" id="s779" name="ABIN" x="6361" y="5374"/>
+	<marker class="PROTEIN" id="s1547" name="ABIN" x="6465" y="5379"/>
+	<marker class="GENE" id="s404" name="AP-1 site" x="3231" y="5790"/>
+	<marker class="GENE" id="s1254" name="AP-1 site" x="3289" y="5678"/>
+	<marker class="GENE" id="s406" name="AP-1 site" x="3117" y="5760"/>
+	<marker class="PROTEIN" id="s260" name="ASK1" x="2902" y="5298"/>
+	<marker class="PROTEIN" id="s725" name="ASK1" x="4352" y="4802"/>
+	<marker class="PROTEIN" id="s907" name="ASK1" x="2901" y="5036"/>
+	<marker class="PROTEIN" id="s915" name="ASK1" x="3153" y="4771"/>
+	<marker class="PROTEIN" id="s912" name="ASK1" x="3288" y="4771"/>
+	<marker class="PROTEIN" id="s125" name="ATF2" x="4183" y="5699"/>
+	<marker class="PROTEIN" id="s123" name="ATF2" x="3967" y="5699"/>
+	<marker class="PROTEIN" id="s754" name="Ajuba" x="6406" y="4158"/>
+	<marker class="PROTEIN" id="s762" name="Ajuba" x="6403" y="4444"/>
+	<marker class="PROTEIN" id="s1447" name="Ajuba" x="6040" y="4200"/>
+	<marker class="PROTEIN" id="s1524" name="Akt" x="3095" y="5570"/>
+	<marker class="PROTEIN" id="s196" name="Akt" x="2301" y="4673"/>
+	<marker class="PROTEIN" id="s1492" name="Akt" x="3097" y="4672"/>
+	<marker class="PROTEIN" id="s1141" name="Akt*" x="2521" y="4672"/>
+	<marker class="PROTEIN" id="s1143" name="Akt*" x="2905" y="4671"/>
+	<marker class="PROTEIN" id="s1142" name="Akt*" x="2711" y="4672"/>
+	<marker class="SIMPLE_MOLECULE" id="s1004" name="Atypical&lt;br/&gt;lipopolysaccharide" x="3195" y="2472"/>
+	<marker class="PROTEIN" id="s584" name="BTK" x="2300" y="4488">
+		<notes>
+<![CDATA[
+PMID: 9159207
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s177" name="BTK" x="1861" y="4571">
+		<notes>
+<![CDATA[
+PMID: 9159207
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s586" name="BTK" x="3111" y="4486">
+		<notes>
+<![CDATA[
+PMID: 9159207
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s180" name="BTK" x="1863" y="4479">
+		<notes>
+<![CDATA[
+PMID: 9159207
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s1144" name="BTK*" x="2522" y="4489"/>
+	<marker class="PROTEIN" id="s1146" name="BTK*" x="2862" y="4487"/>
+	<marker class="PROTEIN" id="s1145" name="BTK*" x="2701" y="4490"/>
+	<marker class="GENE" id="s990" name="Bacteria" x="4747" y="2249"/>
+	<marker class="PROTEIN" id="s1509" name="Bcl-3" x="4963" y="5201"/>
+	<marker class="PROTEIN" id="s1540" name="Bcl-3" x="4855" y="5510"/>
+	<marker class="PROTEIN" id="s561" name="Bcl-3" x="4813" y="5314"/>
+	<marker class="PROTEIN" id="s576" name="Bcl-3" x="4762" y="5485"/>
+	<marker class="GENE" id="s1042" name="Borrelia&lt;br/&gt;Burgdorferi" x="3387" y="2370"/>
+	<marker class="SIMPLE_MOLECULE" id="s1031" name="Bropirimine" x="6507" y="2484"/>
+	<marker class="PROTEIN" id="s670" name="C-TAK1" x="3984" y="4231"/>
+	<marker class="PROTEIN" id="s400" name="CBP" x="2398" y="5799"/>
+	<marker class="PROTEIN" id="s535" name="CBP" x="5842" y="5794"/>
+	<marker class="PROTEIN" id="s1528" name="CBP" x="3077" y="5838"/>
+	<marker class="PROTEIN" id="s1528" name="CBP" x="6121" y="5688"/>
+	<marker class="PROTEIN" id="s249" name="CD14" x="2921" y="2750"/>
+	<marker class="PROTEIN" id="s42" name="CD14" x="2990" y="2887"/>
+	<marker class="PROTEIN" id="s230" name="CKII" x="5131" y="5290"/>
+	<marker class="GENE" id="s402" name="CRE site" x="2398" y="5888"/>
+	<marker class="GENE" id="s359" name="CRE site" x="2758" y="5676"/>
+	<marker class="GENE" id="s362" name="CRE site" x="2928" y="5674"/>
+	<marker class="GENE" id="s1092" name="CRE site" x="2396" y="5682"/>
+	<marker class="GENE" id="s357" name="CRE site" x="2558" y="5675"/>
+	<marker class="PROTEIN" id="s401" name="CREB" x="2402" y="5845"/>
+	<marker class="PROTEIN" id="s363" name="CREB" x="2929" y="5638"/>
+	<marker class="PROTEIN" id="s358" name="CREB" x="2562" y="5634"/>
+	<marker class="PROTEIN" id="s360" name="CREB" x="2762" y="5635"/>
+	<marker class="PROTEIN" id="s1087" name="CREB" x="2392" y="5522"/>
+	<marker class="PROTEIN" id="s1169" name="CREB" x="2567" y="5744"/>
+	<marker class="PROTEIN" id="s1088" name="CREB" x="2393" y="5616"/>
+	<marker class="PROTEIN" id="s77" name="CYLD" x="4938" y="4435"/>
+	<marker class="PROTEIN" id="s1264" name="CaM" x="1865" y="5360"/>
+	<marker class="PROTEIN" id="s409" name="CaM*" x="2162" y="5309"/>
+	<marker class="PROTEIN" id="s1265" name="CaM*" x="2024" y="5360"/>
+	<marker class="PROTEIN" id="s558" name="CaM*" x="2359" y="5309"/>
+	<marker class="PROTEIN" id="s573" name="CaM*" x="2747" y="5506"/>
+	<marker class="PROTEIN" id="s1266" name="CaMKII" x="2025" y="5294"/>
+	<marker class="PROTEIN" id="s410" name="CaMKII" x="2163" y="5349"/>
+	<marker class="PROTEIN" id="s559" name="CaMKII" x="2361" y="5349"/>
+	<marker class="PROTEIN" id="s574" name="CaMKII" x="2749" y="5546"/>
+	<marker class="ION" id="s1501" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="1913" y="3924"/>
+	<marker class="ION" id="s1501" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="1922" y="5297"/>
+	<marker class="ION" id="s1263" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="1922" y="5096"/>
+	<marker class="ION" id="s1501" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="2260" y="4878"/>
+	<marker class="ION" id="s467" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="6598" y="3428"/>
+	<marker class="ION" id="s1501" name="Ca&lt;sup&gt;2+&lt;/sup&gt;" x="6596" y="3536"/>
+	<marker class="PROTEIN" id="s88" name="Cdc42" x="2498" y="3805"/>
+	<marker class="PROTEIN" id="s82" name="Cdc42" x="2498" y="3607"/>
+	<marker class="GENE" id="s1017" name="Clamydia&lt;br/&gt;pneumoniae" x="2940" y="2371"/>
+	<marker class="COMPLEX" id="s648" name="Complex&lt;br/&gt;(14-3-3/KSR1/&lt;br/&gt;MKK1)" x="3762" y="4446"/>
+	<marker class="COMPLEX" id="s1548" name="Complex&lt;br/&gt;(ABIN/A20)" x="6363" y="5344"/>
+	<marker class="COMPLEX" id="s1257" name="Complex&lt;br/&gt;(AP-1 site/c-Fos/&lt;br/&gt;c-Jun)" x="3123" y="5680"/>
+	<marker class="COMPLEX" id="s1255" name="Complex&lt;br/&gt;(AP-1 site/c-Jun)" x="3239" y="5743"/>
+	<marker class="COMPLEX" id="s1446" name="Complex&lt;br/&gt;(Ajuba/TRAF6/&lt;br/&gt;p62/IRAK1/&lt;br/&gt;PKC&amp;zeta;/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="6433" y="4092"/>
+	<marker class="COMPLEX" id="s1455" name="Complex&lt;br/&gt;(Ajuba/TRAF6/&lt;br/&gt;p62/IRAK1/&lt;br/&gt;PKC&amp;zeta;/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="6433" y="4379"/>
+	<marker class="COMPLEX" id="s1096" name="Complex&lt;br/&gt;(CBP/CREB/&lt;br/&gt;CRE site)" x="2407" y="5810"/>
+	<marker class="COMPLEX" id="s1103" name="Complex&lt;br/&gt;(CRE site/CREB)" x="2935" y="5634"/>
+	<marker class="COMPLEX" id="s1102" name="Complex&lt;br/&gt;(CRE site/CREB)" x="2767" y="5631"/>
+	<marker class="COMPLEX" id="s1100" name="Complex&lt;br/&gt;(CRE site/CREB)" x="2567" y="5630"/>
+	<marker class="COMPLEX" id="s1538" name="Complex&lt;br/&gt;(CaM*/CaMKII)" x="2750" y="5512"/>
+	<marker class="COMPLEX" id="s1513" name="Complex&lt;br/&gt;(CaM*/CaMKII)" x="2362" y="5315"/>
+	<marker class="COMPLEX" id="s1269" name="Complex&lt;br/&gt;(CaM*/CaMKII)" x="2164" y="5315"/>
+	<marker class="COMPLEX" id="s389" name="Complex&lt;br/&gt;(Cdc42/GDP)" x="2500" y="3586"/>
+	<marker class="COMPLEX" id="s392" name="Complex&lt;br/&gt;(Cdc42/GTP)" x="2501" y="3782"/>
+	<marker class="COMPLEX" id="s522" name="Complex&lt;br/&gt;(EEA1/PI(3)P)" x="1941" y="3434"/>
+	<marker class="COMPLEX" id="s657" name="Complex&lt;br/&gt;(ERK1&lt;br/&gt;ERK2/MKK1/&lt;br/&gt;Raf-1/KSR1)" x="3991" y="4730"/>
+	<marker class="COMPLEX" id="s960" name="Complex&lt;br/&gt;(FADD/pro-caspase8)" x="5142" y="3253"/>
+	<marker class="COMPLEX" id="s468" name="Complex&lt;br/&gt;(GDP/Ras)" x="2257" y="3585"/>
+	<marker class="COMPLEX" id="s469" name="Complex&lt;br/&gt;(GTP/Ras)" x="2258" y="3783"/>
+	<marker class="COMPLEX" id="s598" name="Complex&lt;br/&gt;(IBtk/BTK)" x="1866" y="4539"/>
+	<marker class="COMPLEX" id="s433" name="Complex&lt;br/&gt;(IKK&amp;alpha;/IKK&amp;beta;/&lt;br/&gt;IKK&amp;gamma;)" x="5942" y="4911"/>
+	<marker class="COMPLEX" id="s195" name="Complex&lt;br/&gt;(IKK&amp;alpha;/IKK&amp;beta;/&lt;br/&gt;IKK&amp;gamma;)" x="5465" y="4910"/>
+	<marker class="COMPLEX" id="s188" name="Complex&lt;br/&gt;(IKK&amp;alpha;/IKK&amp;beta;/&lt;br/&gt;IKK&amp;gamma;)" x="6077" y="4704"/>
+	<marker class="COMPLEX" id="s193" name="Complex&lt;br/&gt;(IKK&amp;alpha;/IKK&amp;beta;/&lt;br/&gt;IKK&amp;gamma;)" x="5764" y="4912"/>
+	<marker class="COMPLEX" id="s1429" name="Complex&lt;br/&gt;(IKK&amp;alpha;/IKK&amp;beta;/&lt;br/&gt;IKK&amp;gamma;/c-Src)" x="6498" y="4692"/>
+	<marker class="COMPLEX" id="s1204" name="Complex&lt;br/&gt;(IKK&amp;gamma;/IKK&amp;alpha;/&lt;br/&gt;IKK&amp;beta;)" x="5597" y="4983"/>
+	<marker class="COMPLEX" id="s1411" name="Complex&lt;br/&gt;(IL-1RII/IL-1RAcP)" x="6238" y="2888"/>
+	<marker class="COMPLEX" id="s1394" name="Complex&lt;br/&gt;(IL-1RI&lt;br/&gt;ligand/IL-1RI)" x="6480" y="2778"/>
+	<marker class="COMPLEX" id="s1395" name="Complex&lt;br/&gt;(IL-1RI&lt;br/&gt;ligand/IL-1RI/&lt;br/&gt;IL-1RAcP)" x="6580" y="2943"/>
+	<marker class="COMPLEX" id="s1398" name="Complex&lt;br/&gt;(IL-1RI&lt;br/&gt;ligand/IL-1RI/&lt;br/&gt;IL-1RAcP)" x="6390" y="2940"/>
+	<marker class="COMPLEX" id="s320" name="Complex&lt;br/&gt;(IRAK1/IRAK4/&lt;br/&gt;MyD88/TIR domain)" x="5146" y="3735"/>
+	<marker class="COMPLEX" id="s302" name="Complex&lt;br/&gt;(IRAK1/IRAK4/&lt;br/&gt;MyD88/TIR domain)" x="4708" y="3734"/>
+	<marker class="COMPLEX" id="s317" name="Complex&lt;br/&gt;(IRAK1/IRAK4/&lt;br/&gt;MyD88/TIR domain)" x="4917" y="3734"/>
+	<marker class="COMPLEX" id="s354" name="Complex&lt;br/&gt;(IRAK1/IRAK4/&lt;br/&gt;MyD88/TIRAP/&lt;br/&gt;TIR domain)" x="4384" y="4060"/>
+	<marker class="COMPLEX" id="s921" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;ASK1/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="4375" y="4725"/>
+	<marker class="COMPLEX" id="s751" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;ECSIT/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="4175" y="4388"/>
+	<marker class="COMPLEX" id="s611" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;MEKK3/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="4576" y="4723"/>
+	<marker class="COMPLEX" id="s139" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;TIFA/Ubc13/&lt;br/&gt;Uev1A)" x="4867" y="4304"/>
+	<marker class="COMPLEX" id="s366" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;TIFA/Ubc13/&lt;br/&gt;Uev1A)" x="4867" y="4485"/>
+	<marker class="COMPLEX" id="s373" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;TIFA/Ubc13/&lt;br/&gt;Uev1A/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="5714" y="4460"/>
+	<marker class="COMPLEX" id="s382" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;TIFA/Ubc13/&lt;br/&gt;Uev1A/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="5913" y="4673"/>
+	<marker class="COMPLEX" id="s361" name="Complex&lt;br/&gt;(IRAK1/TRAF6/&lt;br/&gt;TIFA/Uev1A/&lt;br/&gt;Ubc13/IRAK4/&lt;br/&gt;MyD88/TIRAP/&lt;br/&gt;TIR domain)" x="4606" y="4055"/>
+	<marker class="COMPLEX" id="s1383" name="Complex&lt;br/&gt;(IRAK1c/TOLLIP)" x="4308" y="3510"/>
+	<marker class="COMPLEX" id="s977" name="Complex&lt;br/&gt;(IRAK1c/TRAF6/&lt;br/&gt;IRAK4/MyD88/&lt;br/&gt;TIR domain/TOLLIP)" x="4569" y="3697"/>
+	<marker class="COMPLEX" id="s280" name="Complex&lt;br/&gt;(ISRE/IRF3)" x="6485" y="5761"/>
+	<marker class="COMPLEX" id="s1322" name="Complex&lt;br/&gt;(ISRE/IRF7)" x="6606" y="5761"/>
+	<marker class="COMPLEX" id="s649" name="Complex&lt;br/&gt;(KSR1/MKK1)" x="3634" y="4491"/>
+	<marker class="COMPLEX" id="s651" name="Complex&lt;br/&gt;(KSR1/MKK1/&lt;br/&gt;Raf-1/ERK1&lt;br/&gt;ERK2)" x="4175" y="4727"/>
+	<marker class="COMPLEX" id="s661" name="Complex&lt;br/&gt;(KSR1/MKK1/&lt;br/&gt;Raf-1/ERK1&lt;br/&gt;ERK2)" x="3618" y="4728"/>
+	<marker class="COMPLEX" id="s664" name="Complex&lt;br/&gt;(KSR1/MKK1/&lt;br/&gt;Raf-1/ERK1&lt;br/&gt;ERK2)" x="3428" y="4726"/>
+	<marker class="COMPLEX" id="s673" name="Complex&lt;br/&gt;(KSR2/TPL2&lt;br/&gt;(p58))" x="4533" y="4958"/>
+	<marker class="COMPLEX" id="s48" name="Complex&lt;br/&gt;(MD-2/sTLR4)" x="2243" y="2791"/>
+	<marker class="COMPLEX" id="s1425" name="Complex&lt;br/&gt;(MyD88/IRAK4/&lt;br/&gt;TOLLIP/IRAK1/&lt;br/&gt;TIR domain)" x="6429" y="3851"/>
+	<marker class="COMPLEX" id="s1416" name="Complex&lt;br/&gt;(MyD88/IRAK4/&lt;br/&gt;TOLLIP/IRAK1/&lt;br/&gt;TIR domain)" x="6428" y="3466"/>
+	<marker class="COMPLEX" id="s1421" name="Complex&lt;br/&gt;(MyD88/IRAK4/&lt;br/&gt;TOLLIP/IRAK1/&lt;br/&gt;TIR domain)" x="6429" y="3676"/>
+	<marker class="COMPLEX" id="s970" name="Complex&lt;br/&gt;(MyD88/IRF7/&lt;br/&gt;TRAF6)" x="5426" y="3480"/>
+	<marker class="COMPLEX" id="s967" name="Complex&lt;br/&gt;(MyD88/IRF7/&lt;br/&gt;TRAF6)" x="5050" y="3480"/>
+	<marker class="COMPLEX" id="s870" name="Complex&lt;br/&gt;(MyD88s/MyD88)" x="4497" y="3456"/>
+	<marker class="COMPLEX" id="s1542" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/Bcl-3)" x="4768" y="5493"/>
+	<marker class="COMPLEX" id="s1516" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/Bcl-3)" x="4819" y="5322"/>
+	<marker class="COMPLEX" id="s1460" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/I&amp;kappa; B&amp;zeta;)" x="5030" y="5639"/>
+	<marker class="COMPLEX" id="s1196" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B1&lt;br/&gt;(p105))" x="4864" y="5149"/>
+	<marker class="COMPLEX" id="s1219" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65))" x="6469" y="5238"/>
+	<marker class="COMPLEX" id="s1293" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65))" x="6317" y="5826"/>
+	<marker class="COMPLEX" id="s1231" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65))" x="6315" y="5514"/>
+	<marker class="COMPLEX" id="s1283" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65))" x="6317" y="5690"/>
+	<marker class="COMPLEX" id="s1215" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65))" x="6316" y="5234"/>
+	<marker class="COMPLEX" id="s1512" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="5350" y="5299"/>
+	<marker class="COMPLEX" id="s1535" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="5804" y="5492"/>
+	<marker class="COMPLEX" id="s1536" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="6062" y="5491"/>
+	<marker class="COMPLEX" id="s1511" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="6062" y="5298"/>
+	<marker class="COMPLEX" id="s1510" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="5803" y="5298"/>
+	<marker class="COMPLEX" id="s1537" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="5351" y="5480"/>
+	<marker class="COMPLEX" id="s1206" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;alpha;)" x="5592" y="5300"/>
+	<marker class="COMPLEX" id="s1232" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;beta;)" x="5590" y="5162"/>
+	<marker class="COMPLEX" id="s1234" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;beta;)" x="5798" y="5162"/>
+	<marker class="COMPLEX" id="s1235" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;beta;)" x="6056" y="5161"/>
+	<marker class="COMPLEX" id="s1246" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;I&amp;kappa; B&amp;beta;)" x="5509" y="5485"/>
+	<marker class="COMPLEX" id="s1227" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;PKAc)" x="6405" y="5105"/>
+	<marker class="COMPLEX" id="s1224" name="Complex&lt;br/&gt;(NF-&amp;kappa; B&lt;br/&gt;(p50)/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;PKAc/I&amp;kappa; B&amp;alpha;&lt;br/&gt;I&amp;kappa; B&amp;beta;)" x="6405" y="4914"/>
+	<marker class="COMPLEX" id="s513" name="Complex&lt;br/&gt;(NSF/Syntaxin 13)" x="2139" y="3476"/>
+	<marker class="COMPLEX" id="s526" name="Complex&lt;br/&gt;(NSF/Syntaxin 13/&lt;br/&gt;EEA1/PI(3)P/&lt;br/&gt;Rab5/GTP)" x="2215" y="3352"/>
+	<marker class="COMPLEX" id="s403" name="Complex&lt;br/&gt;(PI3K (p110)/PI3K (p85))" x="2470" y="4185"/>
+	<marker class="COMPLEX" id="s1060" name="Complex&lt;br/&gt;(PI3K (p110)/PI3K(p85)*)" x="2684" y="4185"/>
+	<marker class="COMPLEX" id="s486" name="Complex&lt;br/&gt;(PI3K(Vps34p)/PI3K(p150))" x="1820" y="3659"/>
+	<marker class="COMPLEX" id="s488" name="Complex&lt;br/&gt;(PI3K(Vps34p)/PI3K(p150)/&lt;br/&gt;Rab5/GTP)" x="1685" y="3501"/>
+	<marker class="COMPLEX" id="s643" name="Complex&lt;br/&gt;(PP2A&lt;br/&gt;A subunit/PP2A&lt;br/&gt;C subunit)" x="3759" y="3813"/>
+	<marker class="COMPLEX" id="s645" name="Complex&lt;br/&gt;(PP2A&lt;br/&gt;B subunit/PP2A&lt;br/&gt;C subunit/&lt;br/&gt;PP2A&lt;br/&gt;A subunit)" x="3758" y="4106"/>
+	<marker class="COMPLEX" id="s288" name="Complex&lt;br/&gt;(RIP1/TRAF6/&lt;br/&gt;TICAM1*)" x="5579" y="4054"/>
+	<marker class="COMPLEX" id="s890" name="Complex&lt;br/&gt;(RIP2/NOD1*)" x="6088" y="4063"/>
+	<marker class="COMPLEX" id="s891" name="Complex&lt;br/&gt;(RIP2/NOD2*)" x="6213" y="4062"/>
+	<marker class="COMPLEX" id="s902" name="Complex&lt;br/&gt;(RIP2/TRIP6/&lt;br/&gt;TRAF2)" x="6145" y="4403"/>
+	<marker class="COMPLEX" id="s483" name="Complex&lt;br/&gt;(Rab5/GDP)" x="2014" y="3788"/>
+	<marker class="COMPLEX" id="s482" name="Complex&lt;br/&gt;(Rab5/GTP)" x="2016" y="3579"/>
+	<marker class="COMPLEX" id="s510" name="Complex&lt;br/&gt;(Rabaptin-5/Rabex-5)" x="1822" y="3769"/>
+	<marker class="COMPLEX" id="s1402" name="Complex&lt;br/&gt;(Rac1*/GTP)" x="3341" y="3882"/>
+	<marker class="COMPLEX" id="s390" name="Complex&lt;br/&gt;(Rac1/GDP)" x="2784" y="3585"/>
+	<marker class="COMPLEX" id="s391" name="Complex&lt;br/&gt;(Rac1/GTP)" x="2786" y="3786"/>
+	<marker class="COMPLEX" id="s640" name="Complex&lt;br/&gt;(Raf-1/14-3-3)" x="3635" y="4032"/>
+	<marker class="COMPLEX" id="s666" name="Complex&lt;br/&gt;(Raf-1/MKK1/&lt;br/&gt;KSR1)" x="3374" y="4915"/>
+	<marker class="COMPLEX" id="s475" name="Complex&lt;br/&gt;(Ras/GTP/&lt;br/&gt;TLR9/TLR9 ligand)" x="2372" y="3806"/>
+	<marker class="COMPLEX" id="s1400" name="Complex&lt;br/&gt;(RhoA*/GTP)" x="3333" y="3783"/>
+	<marker class="COMPLEX" id="s777" name="Complex&lt;br/&gt;(RhoA/GDP)" x="3068" y="3581"/>
+	<marker class="COMPLEX" id="s776" name="Complex&lt;br/&gt;(RhoA/GTP)" x="3069" y="3783"/>
+	<marker class="COMPLEX" id="s480" name="Complex&lt;br/&gt;(Rin1/Ras/&lt;br/&gt;GTP)" x="2131" y="3751"/>
+	<marker class="COMPLEX" id="s1320" name="Complex&lt;br/&gt;(SRE/Elk-1)" x="3881" y="5873"/>
+	<marker class="COMPLEX" id="s935" name="Complex&lt;br/&gt;(ST2L/TIRAP/&lt;br/&gt;MyD88)" x="4148" y="3274"/>
+	<marker class="COMPLEX" id="s600" name="Complex&lt;br/&gt;(Sab/BTK)" x="1867" y="4447"/>
+	<marker class="COMPLEX" id="s72" name="Complex&lt;br/&gt;(TAB2&lt;br/&gt;TAB3/TAK1/&lt;br/&gt;TAB1)" x="5447" y="4330"/>
+	<marker class="COMPLEX" id="s51" name="Complex&lt;br/&gt;(TIR domain/MyD88)" x="4706" y="3244"/>
+	<marker class="COMPLEX" id="s1472" name="Complex&lt;br/&gt;(TIR domain/MyD88/&lt;br/&gt;IRAK4)" x="4708" y="3501"/>
+	<marker class="COMPLEX" id="s1472" name="Complex&lt;br/&gt;(TIR domain/MyD88/&lt;br/&gt;IRAK4)" x="5289" y="4301"/>
+	<marker class="COMPLEX" id="s46" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88)" x="3931" y="3262"/>
+	<marker class="COMPLEX" id="s1471" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4)" x="3933" y="3482"/>
+	<marker class="COMPLEX" id="s1471" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4)" x="4424" y="4288"/>
+	<marker class="COMPLEX" id="s344" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4/&lt;br/&gt;IRAK1/TOLLIP)" x="3954" y="3711"/>
+	<marker class="COMPLEX" id="s347" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4/&lt;br/&gt;IRAK1/TOLLIP)" x="3954" y="4020"/>
+	<marker class="COMPLEX" id="s350" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4/&lt;br/&gt;IRAK1/TOLLIP)" x="4187" y="4017"/>
+	<marker class="COMPLEX" id="s980" name="Complex&lt;br/&gt;(TIR domain/TIRAP/&lt;br/&gt;MyD88/IRAK4/&lt;br/&gt;IRAK2)" x="3699" y="3445"/>
+	<marker class="COMPLEX" id="s686" name="Complex&lt;br/&gt;(TIR domain/TOLLIP/&lt;br/&gt;IRAK1c/IRAK4/&lt;br/&gt;MyD88/TIRAP)" x="4166" y="3768"/>
+	<marker class="COMPLEX" id="s44" name="Complex&lt;br/&gt;(TIRAP/TIR domain)" x="4064" y="3145"/>
+	<marker class="COMPLEX" id="s455" name="Complex&lt;br/&gt;(TLR1/TLR10/&lt;br/&gt;TLR1/10 ligand)" x="4482" y="2946"/>
+	<marker class="COMPLEX" id="s425" name="Complex&lt;br/&gt;(TLR1/TLR2/&lt;br/&gt;TLR1/2 ligand)" x="4176" y="2944"/>
+	<marker class="COMPLEX" id="s457" name="Complex&lt;br/&gt;(TLR10/TLR10 ligand)" x="4974" y="2943"/>
+	<marker class="COMPLEX" id="s464" name="Complex&lt;br/&gt;(TLR11/TLR11 ligand)" x="5216" y="2948"/>
+	<marker class="COMPLEX" id="s868" name="Complex&lt;br/&gt;(TLR2 ligand/sTLR2/&lt;br/&gt;sCD14)" x="3237" y="2805"/>
+	<marker class="COMPLEX" id="s456" name="Complex&lt;br/&gt;(TLR2/TLR10/&lt;br/&gt;TLR2/10 ligand)" x="4750" y="2947"/>
+	<marker class="COMPLEX" id="s396" name="Complex&lt;br/&gt;(TLR2/TLR2 ligand)" x="2969" y="2954"/>
+	<marker class="COMPLEX" id="s395" name="Complex&lt;br/&gt;(TLR2/TLR2 ligand)" x="3338" y="2931"/>
+	<marker class="COMPLEX" id="s460" name="Complex&lt;br/&gt;(TLR3/TLR3 ligand)" x="5884" y="3248"/>
+	<marker class="COMPLEX" id="s768" name="Complex&lt;br/&gt;(TLR3/TLR3 ligand)" x="5752" y="3241"/>
+	<marker class="COMPLEX" id="s423" name="Complex&lt;br/&gt;(TLR4 ligand/TLR4/&lt;br/&gt;MD-2)" x="2742" y="2958"/>
+	<marker class="COMPLEX" id="s38" name="Complex&lt;br/&gt;(TLR4/MD-2)" x="2541" y="2872"/>
+	<marker class="COMPLEX" id="s949" name="Complex&lt;br/&gt;(TLR4/SIGIRR)" x="3162" y="3305"/>
+	<marker class="COMPLEX" id="s950" name="Complex&lt;br/&gt;(TLR4/SIGIRR/&lt;br/&gt;TRAF6)" x="3446" y="3412"/>
+	<marker class="COMPLEX" id="s947" name="Complex&lt;br/&gt;(TLR5/SIGIRR)" x="3161" y="3242"/>
+	<marker class="COMPLEX" id="s948" name="Complex&lt;br/&gt;(TLR5/SIGIRR/&lt;br/&gt;TRAF6)" x="3442" y="3287"/>
+	<marker class="COMPLEX" id="s458" name="Complex&lt;br/&gt;(TLR5/TLR5 ligand)" x="3593" y="2948"/>
+	<marker class="COMPLEX" id="s427" name="Complex&lt;br/&gt;(TLR6/TLR2/&lt;br/&gt;TLR2/6 ligand)" x="3870" y="2942"/>
+	<marker class="COMPLEX" id="s448" name="Complex&lt;br/&gt;(TLR7/TLR7 ligand)" x="5404" y="3121"/>
+	<marker class="COMPLEX" id="s453" name="Complex&lt;br/&gt;(TLR8/TLR8 ligand)" x="5592" y="3205"/>
+	<marker class="COMPLEX" id="s952" name="Complex&lt;br/&gt;(TLR9/SIGIRR)" x="3168" y="3455"/>
+	<marker class="COMPLEX" id="s953" name="Complex&lt;br/&gt;(TLR9/SIGIRR/&lt;br/&gt;TRAF6)" x="3448" y="3668"/>
+	<marker class="COMPLEX" id="s452" name="Complex&lt;br/&gt;(TLR9/TLR9 ligand)" x="2371" y="3184"/>
+	<marker class="COMPLEX" id="s293" name="Complex&lt;br/&gt;(TOLLIP/IRAK1)" x="4177" y="3622"/>
+	<marker class="COMPLEX" id="s621" name="Complex&lt;br/&gt;(TPL2&lt;br/&gt;(p52)/NF-&amp;kappa; B1&lt;br/&gt;(p105))" x="4494" y="5190"/>
+	<marker class="COMPLEX" id="s620" name="Complex&lt;br/&gt;(TPL2&lt;br/&gt;(p58)/TPL2&lt;br/&gt;(p52)/&lt;br/&gt;NF-&amp;kappa; B1&lt;br/&gt;(p105))" x="4514" y="5092"/>
+	<marker class="COMPLEX" id="s617" name="Complex&lt;br/&gt;(TPL2&lt;br/&gt;(p58)/TPL2&lt;br/&gt;(p52)/&lt;br/&gt;NF-&amp;kappa; B1&lt;br/&gt;(p105))" x="4692" y="5092"/>
+	<marker class="COMPLEX" id="s327" name="Complex&lt;br/&gt;(TRAF6/IRAK1/&lt;br/&gt;TIFA/Uev1A/&lt;br/&gt;Ubc13/IRAK4/&lt;br/&gt;MyD88/TIR domain)" x="5166" y="4062"/>
+	<marker class="COMPLEX" id="s928" name="Complex&lt;br/&gt;(TRAF6/MEKK3/&lt;br/&gt;IRAK1/TIFA/&lt;br/&gt;Ubc13/Uev1A)" x="4389" y="4452"/>
+	<marker class="COMPLEX" id="s272" name="Complex&lt;br/&gt;(TRAF6/PKR)" x="5277" y="4019"/>
+	<marker class="COMPLEX" id="s946" name="Complex&lt;br/&gt;(TRAF6/SIGIRR)" x="3426" y="3553"/>
+	<marker class="COMPLEX" id="s905" name="Complex&lt;br/&gt;(TRIP6/RIP2/&lt;br/&gt;NOD1*)" x="6010" y="4405"/>
+	<marker class="COMPLEX" id="s162" name="Complex&lt;br/&gt;(Ubc13/Uev1A/&lt;br/&gt;TRAF6/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="5299" y="4685"/>
+	<marker class="COMPLEX" id="s178" name="Complex&lt;br/&gt;(Ubc13/Uev1A/&lt;br/&gt;TRAF6/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="4944" y="4684"/>
+	<marker class="COMPLEX" id="s157" name="Complex&lt;br/&gt;(Ubc13/Uev1A/&lt;br/&gt;TRAF6/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="5478" y="4684"/>
+	<marker class="COMPLEX" id="s183" name="Complex&lt;br/&gt;(Ubc13/Uev1A/&lt;br/&gt;TRAF6/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="4725" y="4686"/>
+	<marker class="COMPLEX" id="s167" name="Complex&lt;br/&gt;(Ubc13/Uev1A/&lt;br/&gt;TRAF6/TAB2&lt;br/&gt;TAB3/&lt;br/&gt;TAK1/TAB1)" x="5119" y="4684"/>
+	<marker class="COMPLEX" id="s1289" name="Complex&lt;br/&gt;(&amp;kappa; B site/NF-&amp;kappa; B&lt;br/&gt; (p65)/&lt;br/&gt;NF-&amp;kappa; B&lt;br/&gt;(p50)/CBP)" x="5865" y="5810"/>
+	<marker class="COMPLEX" id="s1464" name="Complex&lt;br/&gt;(&amp;kappa; B site/NF-&amp;kappa; B&lt;br/&gt;(p50))" x="4837" y="5675"/>
+	<marker class="COMPLEX" id="s1079" name="Complex&lt;br/&gt;(c-Jun/c-Fos)" x="3536" y="5688"/>
+	<marker class="COMPLEX" id="s1408" name="Complex&lt;br/&gt;(calpain/Ca_super_2+)" x="6584" y="3422"/>
+	<marker class="COMPLEX" id="s837" name="Complex&lt;br/&gt;(gp91_super_phox/p22_super_phox/&lt;br/&gt;p47_super_phox/Rac1/&lt;br/&gt;GTP/p40_super_phox/&lt;br/&gt;p67_super_phox)" x="2616" y="5036"/>
+	<marker class="COMPLEX" id="s1274" name="Complex&lt;br/&gt;(p22_super_phox/gp91_super_phox)" x="2449" y="5119"/>
+	<marker class="COMPLEX" id="s1438" name="Complex&lt;br/&gt;(p62/PKC&amp;zeta;)" x="6212" y="4290"/>
+	<marker class="COMPLEX" id="s1130" name="Complex&lt;br/&gt;(pellino3/IRAK1)" x="5048" y="3658"/>
+	<marker class="COMPLEX" id="s885" name="Complex&lt;br/&gt;(pro-caspase9/NOD1*)" x="5942" y="3443"/>
+	<marker class="COMPLEX" id="s886" name="Complex&lt;br/&gt;(pro-caspase9/NOD2*)" x="6011" y="3547"/>
+	<marker class="COMPLEX" id="s911" name="Complex&lt;br/&gt;(reduced&lt;br/&gt;Trx/ASK1)" x="2902" y="5266"/>
+	<marker class="COMPLEX" id="s937" name="Complex&lt;br/&gt;(sST2/sST2&lt;br/&gt;receptor)" x="1683" y="3008"/>
+	<marker class="COMPLEX" id="s865" name="Complex&lt;br/&gt;(sTLR2/CD14)" x="2923" y="2756"/>
+	<marker class="SIMPLE_MOLECULE" id="s1161" name="CpG" x="4491" y="3554"/>
+	<marker class="SIMPLE_MOLECULE" id="s470" name="CpG DNA" x="2147" y="3628"/>
+	<marker class="SIMPLE_MOLECULE" id="s1048" name="CpG chromatin-&lt;br/&gt;IgG2a complexes" x="1663" y="2469"/>
+	<marker class="SIMPLE_MOLECULE" id="s1036" name="CsgA" x="3985" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s596" name="DAG" x="1715" y="4299"/>
+	<marker class="PROTEIN" id="s811" name="DAG kinase" x="1856" y="3993"/>
+	<marker class="PROTEIN" id="s812" name="DAG kinase*" x="2127" y="3992"/>
+	<marker class="SIMPLE_MOLECULE" id="s1047" name="Diacetylated&lt;br/&gt;lipopeptides" x="4484" y="2470"/>
+	<marker class="SIMPLE_MOLECULE" id="s1026" name="Diacyl&lt;br/&gt;lipopeptides" x="5326" y="2467"/>
+	<marker class="PROTEIN" id="s292" name="ECSIT" x="4673" y="4365"/>
+	<marker class="PROTEIN" id="s719" name="ECSIT" x="4152" y="4461"/>
+	<marker class="PROTEIN" id="s168" name="EEA1" x="1939" y="3456"/>
+	<marker class="PROTEIN" id="s172" name="EEA1" x="2151" y="3366"/>
+	<marker class="PROTEIN" id="s491" name="EEA1" x="1778" y="3373"/>
+	<marker class="PROTEIN" id="s521" name="EEA1" x="1780" y="3444"/>
+	<marker class="PROTEIN" id="s220" name="ERK1&lt;br/&gt;ERK2" x="3430" y="4810"/>
+	<marker class="PROTEIN" id="s216" name="ERK1&lt;br/&gt;ERK2" x="3619" y="4808"/>
+	<marker class="PROTEIN" id="s1523" name="ERK1&lt;br/&gt;ERK2" x="3708" y="5517"/>
+	<marker class="PROTEIN" id="s1497" name="ERK1&lt;br/&gt;ERK2" x="3708" y="5123"/>
+	<marker class="PROTEIN" id="s208" name="ERK1&lt;br/&gt;ERK2" x="3993" y="4804"/>
+	<marker class="PROTEIN" id="s207" name="ERK1&lt;br/&gt;ERK2" x="4179" y="4801"/>
+	<marker class="PROTEIN" id="s570" name="ERK1&lt;br/&gt;ERK2" x="3223" y="5126"/>
+	<marker class="PROTEIN" id="s572" name="ERK1&lt;br/&gt;ERK2" x="3411" y="5125"/>
+	<marker class="PROTEIN" id="s1084" name="ERK1&lt;br/&gt;ERK2" x="3436" y="5517"/>
+	<marker class="PROTEIN" id="s124" name="Elk-1" x="4017" y="5880"/>
+	<marker class="PROTEIN" id="s122" name="Elk-1" x="4194" y="5879"/>
+	<marker class="PROTEIN" id="s429" name="Elk-1" x="3875" y="5874"/>
+	<marker class="SIMPLE_MOLECULE" id="s1016" name="Envelope&lt;br/&gt;protein" x="6100" y="2471"/>
+	<marker class="PROTEIN" id="s325" name="FADD" x="5141" y="3246"/>
+	<marker class="PROTEIN" id="s958" name="FADD" x="4965" y="3320"/>
+	<marker class="SIMPLE_MOLECULE" id="s1022" name="Fibrinogen" x="1968" y="2468"/>
+	<marker class="SIMPLE_MOLECULE" id="s1024" name="Flagellin" x="4252" y="2468"/>
+	<marker class="GENE" id="s1005" name="Fungi" x="5683" y="2250"/>
+	<marker class="SIMPLE_MOLECULE" id="s1014" name="Fusion&lt;br/&gt;protein" x="6184" y="2482"/>
+	<marker class="SIMPLE_MOLECULE" id="s85" name="GDP" x="2779" y="3578"/>
+	<marker class="SIMPLE_MOLECULE" id="s1490" name="GDP" x="2911" y="3754"/>
+	<marker class="SIMPLE_MOLECULE" id="s161" name="GDP" x="2011" y="3782"/>
+	<marker class="SIMPLE_MOLECULE" id="s240" name="GDP" x="3064" y="3574"/>
+	<marker class="SIMPLE_MOLECULE" id="s146" name="GDP" x="2251" y="3578"/>
+	<marker class="SIMPLE_MOLECULE" id="s1490" name="GDP" x="3113" y="3727"/>
+	<marker class="SIMPLE_MOLECULE" id="s1490" name="GDP" x="2143" y="3675"/>
+	<marker class="SIMPLE_MOLECULE" id="s1490" name="GDP" x="2414" y="3687"/>
+	<marker class="SIMPLE_MOLECULE" id="s1490" name="GDP" x="1923" y="3660"/>
+	<marker class="SIMPLE_MOLECULE" id="s83" name="GDP" x="2497" y="3579"/>
+	<marker class="PROTEIN" id="s1506" name="GSK3&amp;beta;" x="3019" y="4938"/>
+	<marker class="PROTEIN" id="s1163" name="GSK3&amp;beta;" x="2894" y="4937"/>
+	<marker class="PROTEIN" id="s1533" name="GSK3&amp;beta;" x="3018" y="5499"/>
+	<marker class="SIMPLE_MOLECULE" id="s159" name="GTP" x="2013" y="3574"/>
+	<marker class="SIMPLE_MOLECULE" id="s778" name="GTP" x="1679" y="3477"/>
+	<marker class="SIMPLE_MOLECULE" id="s156" name="GTP" x="2127" y="3737"/>
+	<marker class="SIMPLE_MOLECULE" id="s1489" name="GTP" x="2895" y="3595"/>
+	<marker class="SIMPLE_MOLECULE" id="s245" name="GTP" x="2480" y="5059"/>
+	<marker class="SIMPLE_MOLECULE" id="s459" name="GTP" x="3329" y="3778"/>
+	<marker class="SIMPLE_MOLECULE" id="s238" name="GTP" x="3060" y="3778"/>
+	<marker class="SIMPLE_MOLECULE" id="s90" name="GTP" x="2497" y="3777"/>
+	<marker class="SIMPLE_MOLECULE" id="s465" name="GTP" x="3333" y="3877"/>
+	<marker class="SIMPLE_MOLECULE" id="s151" name="GTP" x="2362" y="3862"/>
+	<marker class="SIMPLE_MOLECULE" id="s148" name="GTP" x="2251" y="3777"/>
+	<marker class="SIMPLE_MOLECULE" id="s87" name="GTP" x="2779" y="3781"/>
+	<marker class="SIMPLE_MOLECULE" id="s175" name="GTP" x="2224" y="3339"/>
+	<marker class="SIMPLE_MOLECULE" id="s1489" name="GTP" x="3110" y="3646"/>
+	<marker class="SIMPLE_MOLECULE" id="s1489" name="GTP" x="2415" y="3630"/>
+	<marker class="SIMPLE_MOLECULE" id="s1489" name="GTP" x="1931" y="3762"/>
+	<marker class="SIMPLE_MOLECULE" id="s1489" name="GTP" x="2151" y="3589"/>
+	<marker class="SIMPLE_MOLECULE" id="s997" name="Glycoinositol-&lt;br/&gt;phospholipids" x="5470" y="2472"/>
+	<marker class="SIMPLE_MOLECULE" id="s999" name="Glycolipids" x="3878" y="2469"/>
+	<marker class="GENE" id="s987" name="Gram(+) bacteria" x="5034" y="2320"/>
+	<marker class="GENE" id="s1010" name="Gram(-) bacteria" x="3780" y="2310"/>
+	<marker class="PROTEIN" id="s1294" name="HDAC-1" x="4820" y="5801"/>
+	<marker class="PROTEIN" id="s1295" name="HDAC-1*" x="4948" y="5802"/>
+	<marker class="PROTEIN" id="s1292" name="HDAC3" x="6372" y="5616"/>
+	<marker class="PROTEIN" id="s1181" name="HMG-14" x="4710" y="5687"/>
+	<marker class="PROTEIN" id="s1183" name="HMG-14" x="4710" y="5802"/>
+	<marker class="PROTEIN" id="s1131" name="HSP25" x="4013" y="5184"/>
+	<marker class="PROTEIN" id="s1133" name="HSP25" x="4013" y="5306"/>
+	<marker class="PROTEIN" id="s1118" name="HSP27" x="4175" y="5184"/>
+	<marker class="PROTEIN" id="s1119" name="HSP27" x="4174" y="5305"/>
+	<marker class="SIMPLE_MOLECULE" id="s1018" name="HSP60" x="2937" y="2472"/>
+	<marker class="SIMPLE_MOLECULE" id="s1018" name="HSP60" x="2525" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s1008" name="HSP70" x="2621" y="2469"/>
+	<marker class="GENE" id="s1007" name="Host" x="2493" y="2251"/>
+	<marker class="PROTEIN" id="s176" name="IBtk" x="1862" y="4531"/>
+	<marker class="PROTEIN" id="s597" name="IBtk" x="2161" y="4589"/>
+	<marker class="PROTEIN" id="s1409" name="ICE" x="6459" y="3255"/>
+	<marker class="PROTEIN" id="s398" name="IKK&amp;alpha;" x="5553" y="4979"/>
+	<marker class="PROTEIN" id="s388" name="IKK&amp;alpha;" x="5898" y="4908"/>
+	<marker class="PROTEIN" id="s385" name="IKK&amp;alpha;" x="5420" y="4908"/>
+	<marker class="PROTEIN" id="s381" name="IKK&amp;alpha;" x="5722" y="4909"/>
+	<marker class="PROTEIN" id="s473" name="IKK&amp;alpha;" x="6457" y="4683"/>
+	<marker class="PROTEIN" id="s116" name="IKK&amp;alpha;" x="6074" y="4571"/>
+	<marker class="PROTEIN" id="s378" name="IKK&amp;alpha;" x="6039" y="4704"/>
+	<marker class="PROTEIN" id="s399" name="IKK&amp;beta;" x="5596" y="4981"/>
+	<marker class="PROTEIN" id="s393" name="IKK&amp;beta;" x="5944" y="4909"/>
+	<marker class="PROTEIN" id="s383" name="IKK&amp;beta;" x="5768" y="4909"/>
+	<marker class="PROTEIN" id="s474" name="IKK&amp;beta;" x="6497" y="4682"/>
+	<marker class="PROTEIN" id="s117" name="IKK&amp;beta;" x="6200" y="4570"/>
+	<marker class="PROTEIN" id="s379" name="IKK&amp;beta;" x="6079" y="4702"/>
+	<marker class="PROTEIN" id="s386" name="IKK&amp;beta;" x="5466" y="4908"/>
+	<marker class="PROTEIN" id="s273" name="IKK&amp;epsilon;" x="5705" y="3888">
+		<notes>
+<![CDATA[
+inducible IKK (IKKi)
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s284" name="IKK&amp;epsilon; *" x="5889" y="3887"/>
+	<marker class="PROTEIN" id="s397" name="IKK&amp;gamma;" x="5597" y="5031"/>
+	<marker class="PROTEIN" id="s394" name="IKK&amp;gamma;" x="5941" y="4959"/>
+	<marker class="PROTEIN" id="s384" name="IKK&amp;gamma;" x="5761" y="4956"/>
+	<marker class="PROTEIN" id="s118" name="IKK&amp;gamma;" x="6339" y="4642"/>
+	<marker class="PROTEIN" id="s380" name="IKK&amp;gamma;" x="6074" y="4749"/>
+	<marker class="PROTEIN" id="s476" name="IKK&amp;gamma;" x="6495" y="4731"/>
+	<marker class="PROTEIN" id="s387" name="IKK&amp;gamma;" x="5464" y="4958"/>
+	<marker class="PROTEIN" id="s186" name="IKK&amp;gamma;" x="6206" y="4641"/>
+	<marker class="PROTEIN" id="s1496" name="IL-1" x="6209" y="4771"/>
+	<marker class="PROTEIN" id="s1496" name="IL-1" x="4658" y="4471"/>
+	<marker class="PROTEIN" id="s1496" name="IL-1" x="3180" y="3590"/>
+	<marker class="PROTEIN" id="s451" name="IL-1RAcP" x="6403" y="2964"/>
+	<marker class="PROTEIN" id="s447" name="IL-1RAcP" x="6593" y="2967"/>
+	<marker class="PROTEIN" id="s472" name="IL-1RAcP" x="6252" y="2888"/>
+	<marker class="PROTEIN" id="s1393" name="IL-1RAcP" x="6382" y="2842"/>
+	<marker class="PROTEIN" id="s439" name="IL-1RI" x="6479" y="2802"/>
+	<marker class="PROTEIN" id="s441" name="IL-1RI" x="6530" y="2968"/>
+	<marker class="PROTEIN" id="s450" name="IL-1RI" x="6340" y="2965"/>
+	<marker class="PROTEIN" id="s1389" name="IL-1RI" x="6329" y="2786"/>
+	<marker class="PROTEIN" id="s471" name="IL-1RII" x="6188" y="2889"/>
+	<marker class="PROTEIN" id="s1410" name="IL-1RII" x="6219" y="2775"/>
+	<marker class="PROTEIN" id="s440" name="IL-1RI&lt;br/&gt;ligand" x="6529" y="2936"/>
+	<marker class="PROTEIN" id="s449" name="IL-1RI&lt;br/&gt;ligand" x="6339" y="2933"/>
+	<marker class="PROTEIN" id="s1392" name="IL-1RI&lt;br/&gt;ligand" x="6399" y="2696"/>
+	<marker class="PROTEIN" id="s436" name="IL-1RI&lt;br/&gt;ligand" x="6478" y="2770"/>
+	<marker class="GENE" id="s1465" name="IL-1&amp;alpha;" x="6161" y="5912"/>
+	<marker class="PROTEIN" id="s1515" name="IL-1&amp;alpha;" x="6554" y="3180"/>
+	<marker class="PROTEIN" id="s1390" name="IL-1&amp;alpha;" x="6580" y="2655"/>
+	<marker class="RNA" id="s1468" name="IL-1&amp;alpha;" x="6529" y="5517"/>
+	<marker class="GENE" id="s1466" name="IL-1&amp;beta;" x="6043" y="5914"/>
+	<marker class="PROTEIN" id="s1514" name="IL-1&amp;beta;" x="6371" y="3159"/>
+	<marker class="PROTEIN" id="s1391" name="IL-1&amp;beta;" x="6580" y="2741"/>
+	<marker class="RNA" id="s1469" name="IL-1&amp;beta;" x="6440" y="5490"/>
+	<marker class="PROTEIN" id="s1412" name="IL-1ra" x="6579" y="2808"/>
+	<marker class="GENE" id="s1467" name="IL-1ra" x="6293" y="5903"/>
+	<marker class="RNA" id="s1315" name="IL-6" x="5084" y="5887"/>
+	<marker class="GENE" id="s1314" name="IL-6" x="5077" y="5788"/>
+	<marker class="SIMPLE_MOLECULE" id="s595" name="IP3" x="1760" y="4476"/>
+	<marker class="PROTEIN" id="s1258" name="IP&lt;sub&gt;3&lt;/sub&gt;R" x="1831" y="5053"/>
+	<marker class="PROTEIN" id="s1259" name="IP&lt;sub&gt;3&lt;/sub&gt;R*" x="1832" y="5180"/>
+	<marker class="PROTEIN" id="s674" name="IRAK-M" x="4850" y="4182"/>
+	<marker class="PROTEIN" id="s757" name="IRAK1" x="6403" y="4073"/>
+	<marker class="PROTEIN" id="s659" name="IRAK1" x="3885" y="4060"/>
+	<marker class="PROTEIN" id="s587" name="IRAK1" x="4702" y="3824"/>
+	<marker class="PROTEIN" id="s585" name="IRAK1" x="4171" y="3655"/>
+	<marker class="PROTEIN" id="s652" name="IRAK1" x="3886" y="3750"/>
+	<marker class="PROTEIN" id="s695" name="IRAK1" x="5694" y="4437"/>
+	<marker class="PROTEIN" id="s690" name="IRAK1" x="4847" y="4481"/>
+	<marker class="PROTEIN" id="s606" name="IRAK1" x="4911" y="3823"/>
+	<marker class="PROTEIN" id="s736" name="IRAK1" x="5042" y="3657"/>
+	<marker class="PROTEIN" id="s30" name="IRAK1" x="4563" y="3588"/>
+	<marker class="PROTEIN" id="s610" name="IRAK1" x="5140" y="3824"/>
+	<marker class="PROTEIN" id="s711" name="IRAK1" x="4551" y="4711"/>
+	<marker class="PROTEIN" id="s731" name="IRAK1" x="4370" y="4445"/>
+	<marker class="PROTEIN" id="s703" name="IRAK1" x="5894" y="4644"/>
+	<marker class="PROTEIN" id="s577" name="IRAK1" x="4848" y="4300"/>
+	<marker class="PROTEIN" id="s740" name="IRAK1" x="6436" y="3519"/>
+	<marker class="PROTEIN" id="s723" name="IRAK1" x="4353" y="4712"/>
+	<marker class="PROTEIN" id="s78" name="IRAK1" x="5757" y="4675"/>
+	<marker class="PROTEIN" id="s745" name="IRAK1" x="6440" y="3728"/>
+	<marker class="PROTEIN" id="s750" name="IRAK1" x="6440" y="3905"/>
+	<marker class="PROTEIN" id="s680" name="IRAK1" x="4592" y="4151"/>
+	<marker class="PROTEIN" id="s675" name="IRAK1" x="4378" y="4181"/>
+	<marker class="PROTEIN" id="s668" name="IRAK1" x="4115" y="4062"/>
+	<marker class="PROTEIN" id="s717" name="IRAK1" x="4150" y="4378"/>
+	<marker class="PROTEIN" id="s625" name="IRAK1" x="5149" y="4141"/>
+	<marker class="PROTEIN" id="s765" name="IRAK1" x="6403" y="4359"/>
+	<marker class="PROTEIN" id="s1382" name="IRAK1c" x="4380" y="3719"/>
+	<marker class="PROTEIN" id="s228" name="IRAK1c" x="4097" y="3809"/>
+	<marker class="PROTEIN" id="s338" name="IRAK1c" x="4542" y="3767"/>
+	<marker class="PROTEIN" id="s432" name="IRAK1c" x="4300" y="3503"/>
+	<marker class="PROTEIN" id="s978" name="IRAK2" x="3837" y="3439"/>
+	<marker class="PROTEIN" id="s351" name="IRAK2" x="3696" y="3568"/>
+	<marker class="PROTEIN" id="s981" name="IRAK2c" x="4909" y="4109"/>
+	<marker class="PROTEIN" id="s982" name="IRAK2d" x="4788" y="4108"/>
+	<marker class="PROTEIN" id="s658" name="IRAK4" x="3922" y="4107"/>
+	<marker class="PROTEIN" id="s738" name="IRAK4" x="6358" y="3523"/>
+	<marker class="PROTEIN" id="s650" name="IRAK4" x="3921" y="3795"/>
+	<marker class="PROTEIN" id="s591" name="IRAK4" x="4703" y="3780"/>
+	<marker class="PROTEIN" id="s632" name="IRAK4" x="5148" y="4096"/>
+	<marker class="PROTEIN" id="s545" name="IRAK4" x="4422" y="4378"/>
+	<marker class="PROTEIN" id="s613" name="IRAK4" x="5141" y="3779"/>
+	<marker class="PROTEIN" id="s29" name="IRAK4" x="4301" y="3411"/>
+	<marker class="PROTEIN" id="s349" name="IRAK4" x="3696" y="3527"/>
+	<marker class="PROTEIN" id="s548" name="IRAK4" x="4705" y="3558"/>
+	<marker class="PROTEIN" id="s545" name="IRAK4" x="3931" y="3571"/>
+	<marker class="PROTEIN" id="s548" name="IRAK4" x="5287" y="4359"/>
+	<marker class="PROTEIN" id="s685" name="IRAK4" x="4591" y="4113"/>
+	<marker class="PROTEIN" id="s229" name="IRAK4" x="4128" y="3854"/>
+	<marker class="PROTEIN" id="s743" name="IRAK4" x="6357" y="3734"/>
+	<marker class="PROTEIN" id="s748" name="IRAK4" x="6358" y="3909"/>
+	<marker class="PROTEIN" id="s667" name="IRAK4" x="4162" y="4107"/>
+	<marker class="PROTEIN" id="s676" name="IRAK4" x="4379" y="4136"/>
+	<marker class="PROTEIN" id="s607" name="IRAK4" x="4912" y="3779"/>
+	<marker class="PROTEIN" id="s340" name="IRAK4" x="4539" y="3729"/>
+	<marker class="PROTEIN" id="s282" name="IRF3" x="5719" y="4089"/>
+	<marker class="PROTEIN" id="s1522" name="IRF3" x="6481" y="5629"/>
+	<marker class="PROTEIN" id="s1485" name="IRF3" x="5923" y="4251"/>
+	<marker class="PROTEIN" id="s276" name="IRF3" x="5920" y="4088"/>
+	<marker class="PROTEIN" id="s275" name="IRF3" x="5719" y="3992"/>
+	<marker class="PROTEIN" id="s76" name="IRF3" x="6480" y="5763"/>
+	<marker class="PROTEIN" id="s1321" name="IRF7" x="6608" y="5586"/>
+	<marker class="PROTEIN" id="s971" name="IRF7" x="5680" y="3575"/>
+	<marker class="PROTEIN" id="s965" name="IRF7" x="4948" y="3410"/>
+	<marker class="PROTEIN" id="s422" name="IRF7" x="5421" y="3507"/>
+	<marker class="PROTEIN" id="s418" name="IRF7" x="5045" y="3507"/>
+	<marker class="PROTEIN" id="s431" name="IRF7" x="6600" y="5763"/>
+	<marker class="PROTEIN" id="s279" name="ISRE" x="6572" y="5684"/>
+	<marker class="PROTEIN" id="s430" name="ISRE" x="6596" y="5803"/>
+	<marker class="PROTEIN" id="s75" name="ISRE" x="6477" y="5808"/>
+	<marker class="PROTEIN" id="s492" name="I&amp;kappa; B&amp;alpha;" x="5575" y="5295"/>
+	<marker class="PROTEIN" id="s1520" name="I&amp;kappa; B&amp;alpha;" x="5620" y="5487"/>
+	<marker class="PROTEIN" id="s557" name="I&amp;kappa; B&amp;alpha;" x="5337" y="5294"/>
+	<marker class="PROTEIN" id="s567" name="I&amp;kappa; B&amp;alpha;" x="6048" y="5486"/>
+	<marker class="PROTEIN" id="s564" name="I&amp;kappa; B&amp;alpha;" x="5784" y="5487"/>
+	<marker class="PROTEIN" id="s551" name="I&amp;kappa; B&amp;alpha;" x="5784" y="5293"/>
+	<marker class="PROTEIN" id="s554" name="I&amp;kappa; B&amp;alpha;" x="6048" y="5292"/>
+	<marker class="RNA" id="s1301" name="I&amp;kappa; B&amp;alpha;" x="5420" y="5698"/>
+	<marker class="PROTEIN" id="s1479" name="I&amp;kappa; B&amp;alpha;" x="5418" y="5147"/>
+	<marker class="GENE" id="s1185" name="I&amp;kappa; B&amp;alpha;" x="5414" y="5804"/>
+	<marker class="PROTEIN" id="s571" name="I&amp;kappa; B&amp;alpha;" x="5338" y="5475"/>
+	<marker class="PROTEIN" id="s255" name="I&amp;kappa; B&amp;alpha;" x="6156" y="5247"/>
+	<marker class="PROTEIN" id="s1220" name="I&amp;kappa; B&amp;alpha;&lt;br/&gt;I&amp;kappa; B&amp;beta;" x="6471" y="5050"/>
+	<marker class="PROTEIN" id="s502" name="I&amp;kappa; B&amp;alpha;&lt;br/&gt;I&amp;kappa; B&amp;beta;" x="6388" y="4903"/>
+	<marker class="PROTEIN" id="s1481" name="I&amp;kappa; B&amp;beta;" x="5262" y="5134"/>
+	<marker class="PROTEIN" id="s1519" name="I&amp;kappa; B&amp;beta;" x="5261" y="5613"/>
+	<marker class="PROTEIN" id="s523" name="I&amp;kappa; B&amp;beta;" x="6033" y="5157"/>
+	<marker class="PROTEIN" id="s1236" name="I&amp;kappa; B&amp;beta;" x="6192" y="5120"/>
+	<marker class="PROTEIN" id="s515" name="I&amp;kappa; B&amp;beta;" x="5577" y="5158"/>
+	<marker class="PROTEIN" id="s1483" name="I&amp;kappa; B&amp;beta;" x="5185" y="5344"/>
+	<marker class="PROTEIN" id="s1521" name="I&amp;kappa; B&amp;beta;" x="5185" y="5511"/>
+	<marker class="PROTEIN" id="s518" name="I&amp;kappa; B&amp;beta;" x="5779" y="5158"/>
+	<marker class="PROTEIN" id="s529" name="I&amp;kappa; B&amp;beta;" x="5488" y="5481"/>
+	<marker class="GENE" id="s1310" name="I&amp;kappa; B&amp;zeta;" x="5171" y="5884"/>
+	<marker class="PROTEIN" id="s1311" name="I&amp;kappa; B&amp;zeta;" x="5048" y="5504"/>
+	<marker class="PROTEIN" id="s539" name="I&amp;kappa; B&amp;zeta;" x="5022" y="5632"/>
+	<marker class="SIMPLE_MOLECULE" id="s1029" name="Imidazoquinoline" x="6321" y="2483"/>
+	<marker class="PROTEIN" id="s1532" name="JNK" x="3825" y="5501"/>
+	<marker class="PROTEIN" id="s130" name="JNK" x="4192" y="5125"/>
+	<marker class="PROTEIN" id="s1477" name="JNK" x="3825" y="5125"/>
+	<marker class="PROTEIN" id="s131" name="JNK" x="4002" y="5124"/>
+	<marker class="PROTEIN" id="s646" name="KSR1" x="3900" y="4352"/>
+	<marker class="PROTEIN" id="s217" name="KSR1" x="3355" y="4742"/>
+	<marker class="PROTEIN" id="s213" name="KSR1" x="3546" y="4748"/>
+	<marker class="PROTEIN" id="s634" name="KSR1" x="3900" y="4168"/>
+	<marker class="PROTEIN" id="s211" name="KSR1" x="3922" y="4748"/>
+	<marker class="PROTEIN" id="s199" name="KSR1" x="3627" y="4489"/>
+	<marker class="PROTEIN" id="s223" name="KSR1" x="3313" y="4921"/>
+	<marker class="PROTEIN" id="s203" name="KSR1" x="4105" y="4743"/>
+	<marker class="PROTEIN" id="s197" name="KSR1" x="3757" y="4471"/>
+	<marker class="PROTEIN" id="s224" name="KSR2" x="4532" y="4997"/>
+	<marker class="PROTEIN" id="s672" name="KSR2" x="4628" y="5013"/>
+	<marker class="GENE" id="s1038" name="Klebsiella" x="3770" y="2373"/>
+	<marker class="PROTEIN" id="s424" name="LBP" x="2808" y="2813"/>
+	<marker class="SIMPLE_MOLECULE" id="s1495" name="LPS" x="4622" y="4647"/>
+	<marker class="SIMPLE_MOLECULE" id="s1495" name="LPS" x="2350" y="4415"/>
+	<marker class="SIMPLE_MOLECULE" id="s1495" name="LPS" x="4386" y="3553"/>
+	<marker class="SIMPLE_MOLECULE" id="s612" name="LPS" x="3461" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s1541" name="LPS" x="5236" y="5797"/>
+	<marker class="GENE" id="s1002" name="Leptospira&lt;br/&gt;interrogans" x="3160" y="2370"/>
+	<marker class="SIMPLE_MOLECULE" id="s993" name="Lipoarabinomannan" x="4620" y="2468"/>
+	<marker class="SIMPLE_MOLECULE" id="s989" name="Lipopeptides" x="4084" y="2470"/>
+	<marker class="SIMPLE_MOLECULE" id="s988" name="Lipoprotein" x="4170" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s992" name="Lipoteichoic acid" x="5090" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s1030" name="Loxoribine" x="6419" y="2484"/>
+	<marker class="PROTEIN" id="s1116" name="MAPKAPK2" x="4308" y="5725"/>
+	<marker class="PROTEIN" id="s1114" name="MAPKAPK2" x="4308" y="5608"/>
+	<marker class="PROTEIN" id="s1505" name="MAPKAPK2" x="4318" y="5245"/>
+	<marker class="PROTEIN" id="s1531" name="MAPKAPK2" x="4465" y="5726"/>
+	<marker class="PROTEIN" id="s1120" name="MBP" x="3615" y="5207"/>
+	<marker class="PROTEIN" id="s1121" name="MBP" x="3615" y="5328"/>
+	<marker class="PROTEIN" id="s104" name="MD-2" x="2758" y="2971"/>
+	<marker class="PROTEIN" id="s23" name="MD-2" x="2414" y="2792"/>
+	<marker class="PROTEIN" id="s35" name="MD-2" x="2417" y="2873"/>
+	<marker class="PROTEIN" id="s14" name="MD-2" x="2177" y="2793"/>
+	<marker class="PROTEIN" id="s11" name="MD-2" x="2555" y="2872"/>
+	<marker class="PROTEIN" id="s442" name="MEKK1" x="3875" y="4449"/>
+	<marker class="PROTEIN" id="s1061" name="MEKK1*" x="3771" y="4626"/>
+	<marker class="PROTEIN" id="s1062" name="MEKK1*" x="3625" y="4626"/>
+	<marker class="PROTEIN" id="s730" name="MEKK3" x="4368" y="4508"/>
+	<marker class="PROTEIN" id="s713" name="MEKK3" x="4553" y="4801"/>
+	<marker class="PROTEIN" id="s605" name="MEKK3" x="4530" y="4478"/>
+	<marker class="PROTEIN" id="s209" name="MKK1" x="3994" y="4764"/>
+	<marker class="PROTEIN" id="s218" name="MKK1" x="3431" y="4761"/>
+	<marker class="PROTEIN" id="s222" name="MKK1" x="3376" y="4969"/>
+	<marker class="PROTEIN" id="s204" name="MKK1" x="4177" y="4761"/>
+	<marker class="PROTEIN" id="s201" name="MKK1" x="3629" y="4529"/>
+	<marker class="PROTEIN" id="s437" name="MKK1" x="3688" y="4963"/>
+	<marker class="PROTEIN" id="s438" name="MKK1" x="3509" y="4963"/>
+	<marker class="PROTEIN" id="s198" name="MKK1" x="3757" y="4511"/>
+	<marker class="PROTEIN" id="s214" name="MKK1" x="3622" y="4764"/>
+	<marker class="PROTEIN" id="s1476" name="MKK3" x="4417" y="4966"/>
+	<marker class="PROTEIN" id="s1529" name="MKK3" x="4417" y="5520"/>
+	<marker class="PROTEIN" id="s113" name="MKK3" x="4190" y="4966"/>
+	<marker class="PROTEIN" id="s128" name="MKK4" x="4049" y="4963"/>
+	<marker class="PROTEIN" id="s114" name="MKK4" x="3821" y="4964"/>
+	<marker class="PROTEIN" id="s115" name="MKK6" x="4190" y="5049"/>
+	<marker class="PROTEIN" id="s1474" name="MKK6" x="4357" y="5050"/>
+	<marker class="PROTEIN" id="s1530" name="MKK6" x="4304" y="5497"/>
+	<marker class="PROTEIN" id="s129" name="MKK7" x="3988" y="5047"/>
+	<marker class="PROTEIN" id="s127" name="MKK7" x="3823" y="5047"/>
+	<marker class="PROTEIN" id="s1085" name="MKP" x="3568" y="5472"/>
+	<marker class="GENE" id="s1015" name="MMT virus" x="6098" y="2373"/>
+	<marker class="PROTEIN" id="s1178" name="MSK1" x="4534" y="5608"/>
+	<marker class="PROTEIN" id="s1177" name="MSK1" x="4534" y="5500"/>
+	<marker class="PROTEIN" id="s1179" name="MSK1" x="4674" y="5608"/>
+	<marker class="SIMPLE_MOLECULE" id="s1041" name="Mannuronic&lt;br/&gt;acid polymer" x="3046" y="2471"/>
+	<marker class="PROTEIN" id="s1107" name="Mnk1" x="3475" y="5325"/>
+	<marker class="PROTEIN" id="s1105" name="Mnk1" x="3474" y="5206"/>
+	<marker class="PROTEIN" id="s1108" name="Mnk2" x="3212" y="5322"/>
+	<marker class="PROTEIN" id="s1106" name="Mnk2" x="3212" y="5197"/>
+	<marker class="PROTEIN" id="s656" name="MyD88" x="3969" y="4061"/>
+	<marker class="PROTEIN" id="s257" name="MyD88" x="4496" y="3451"/>
+	<marker class="PROTEIN" id="s665" name="MyD88" x="4205" y="4058"/>
+	<marker class="PROTEIN" id="s417" name="MyD88" x="5046" y="3462"/>
+	<marker class="PROTEIN" id="s647" name="MyD88" x="3970" y="3752"/>
+	<marker class="PROTEIN" id="s633" name="MyD88" x="5150" y="4050"/>
+	<marker class="PROTEIN" id="s592" name="MyD88" x="4702" y="3734"/>
+	<marker class="PROTEIN" id="s1470" name="MyD88" x="5554" y="3440"/>
+	<marker class="PROTEIN" id="s231" name="MyD88" x="4182" y="3810"/>
+	<marker class="PROTEIN" id="s544" name="MyD88" x="4421" y="4329"/>
+	<marker class="PROTEIN" id="s28" name="MyD88" x="4448" y="3325"/>
+	<marker class="PROTEIN" id="s616" name="MyD88" x="5144" y="3734"/>
+	<marker class="PROTEIN" id="s1470" name="MyD88" x="4449" y="3229"/>
+	<marker class="PROTEIN" id="s99" name="MyD88" x="3930" y="3311"/>
+	<marker class="PROTEIN" id="s547" name="MyD88" x="4705" y="3509"/>
+	<marker class="PROTEIN" id="s101" name="MyD88" x="4706" y="3261"/>
+	<marker class="PROTEIN" id="s547" name="MyD88" x="5286" y="4310"/>
+	<marker class="PROTEIN" id="s687" name="MyD88" x="4591" y="4075"/>
+	<marker class="PROTEIN" id="s277" name="MyD88" x="4147" y="3327"/>
+	<marker class="PROTEIN" id="s348" name="MyD88" x="3698" y="3478"/>
+	<marker class="PROTEIN" id="s341" name="MyD88" x="4542" y="3689"/>
+	<marker class="PROTEIN" id="s737" name="MyD88" x="6357" y="3474"/>
+	<marker class="PROTEIN" id="s747" name="MyD88" x="6358" y="3860"/>
+	<marker class="PROTEIN" id="s419" name="MyD88" x="3590" y="3804"/>
+	<marker class="PROTEIN" id="s677" name="MyD88" x="4379" y="4091"/>
+	<marker class="PROTEIN" id="s742" name="MyD88" x="6357" y="3685"/>
+	<marker class="PROTEIN" id="s421" name="MyD88" x="5423" y="3462"/>
+	<marker class="PROTEIN" id="s608" name="MyD88" x="4913" y="3733"/>
+	<marker class="PROTEIN" id="s544" name="MyD88" x="3930" y="3522"/>
+	<marker class="PROTEIN" id="s256" name="MyD88s" x="4495" y="3483"/>
+	<marker class="PROTEIN" id="s869" name="MyD88s" x="4539" y="3324"/>
+	<marker class="GENE" id="s986" name="Mycobacteria" x="4554" y="2370"/>
+	<marker class="GENE" id="s1045" name="Mycobacterium&lt;br/&gt; tuberculosis " x="4721" y="2389"/>
+	<marker class="GENE" id="s1025" name="Mycoplasma" x="5319" y="2250"/>
+	<marker class="SIMPLE_MOLECULE" id="s913" name="NADPH" x="2804" y="5105"/>
+	<marker class="GENE" id="s1300" name="NF-&amp;kappa; B1" x="5303" y="5704"/>
+	<marker class="RNA" id="s1187" name="NF-&amp;kappa; B1" x="5035" y="5361"/>
+	<marker class="PROTEIN" id="s377" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4489" y="5223"/>
+	<marker class="PROTEIN" id="s1189" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4623" y="5342"/>
+	<marker class="PROTEIN" id="s1507" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4489" y="5342"/>
+	<marker class="PROTEIN" id="s1507" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4782" y="5225"/>
+	<marker class="PROTEIN" id="s371" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4674" y="5130"/>
+	<marker class="PROTEIN" id="s212" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4984" y="4961"/>
+	<marker class="PROTEIN" id="s375" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4506" y="5130"/>
+	<marker class="PROTEIN" id="s487" name="NF-&amp;kappa; B1&lt;br/&gt;(p105)" x="4819" y="5156"/>
+	<marker class="PROTEIN" id="s550" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5759" y="5335"/>
+	<marker class="PROTEIN" id="s490" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5548" y="5337"/>
+	<marker class="PROTEIN" id="s494" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6272" y="5240"/>
+	<marker class="PROTEIN" id="s520" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6011" y="5199"/>
+	<marker class="PROTEIN" id="s531" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6265" y="5698"/>
+	<marker class="PROTEIN" id="s504" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6361" y="5134"/>
+	<marker class="PROTEIN" id="s556" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5306" y="5336"/>
+	<marker class="PROTEIN" id="s566" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6018" y="5528"/>
+	<marker class="PROTEIN" id="s563" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5760" y="5529"/>
+	<marker class="PROTEIN" id="s553" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6018" y="5335"/>
+	<marker class="PROTEIN" id="s1242" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5675" y="5679"/>
+	<marker class="PROTEIN" id="s205" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5162" y="5131"/>
+	<marker class="PROTEIN" id="s517" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5753" y="5201"/>
+	<marker class="PROTEIN" id="s1238" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5841" y="5678"/>
+	<marker class="PROTEIN" id="s537" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6266" y="5832"/>
+	<marker class="PROTEIN" id="s569" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5307" y="5517"/>
+	<marker class="PROTEIN" id="s525" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5465" y="5523"/>
+	<marker class="PROTEIN" id="s507" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6270" y="5521"/>
+	<marker class="PROTEIN" id="s512" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5546" y="5200"/>
+	<marker class="PROTEIN" id="s498" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6361" y="4975"/>
+	<marker class="PROTEIN" id="s496" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="6425" y="5245"/>
+	<marker class="PROTEIN" id="s533" name="NF-&amp;kappa; B&lt;br/&gt; (p65)" x="5814" y="5838"/>
+	<marker class="PROTEIN" id="s485" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4877" y="5154"/>
+	<marker class="PROTEIN" id="s549" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5815" y="5336"/>
+	<marker class="PROTEIN" id="s489" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5604" y="5338"/>
+	<marker class="PROTEIN" id="s497" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6417" y="4975"/>
+	<marker class="PROTEIN" id="s511" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5602" y="5200"/>
+	<marker class="PROTEIN" id="s493" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6328" y="5241"/>
+	<marker class="PROTEIN" id="s1508" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4943" y="5329"/>
+	<marker class="PROTEIN" id="s524" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5521" y="5524"/>
+	<marker class="PROTEIN" id="s565" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6074" y="5529"/>
+	<marker class="PROTEIN" id="s555" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5362" y="5336"/>
+	<marker class="PROTEIN" id="s506" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6326" y="5523"/>
+	<marker class="PROTEIN" id="s1480" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5101" y="5225"/>
+	<marker class="PROTEIN" id="s530" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6329" y="5698"/>
+	<marker class="PROTEIN" id="s1539" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4942" y="5496"/>
+	<marker class="PROTEIN" id="s1534" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5989" y="5677"/>
+	<marker class="PROTEIN" id="s516" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5809" y="5199"/>
+	<marker class="PROTEIN" id="s541" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4831" y="5672"/>
+	<marker class="PROTEIN" id="s503" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6417" y="5133"/>
+	<marker class="PROTEIN" id="s560" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4813" y="5354"/>
+	<marker class="PROTEIN" id="s575" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="4762" y="5525"/>
+	<marker class="PROTEIN" id="s562" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5816" y="5529"/>
+	<marker class="PROTEIN" id="s534" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5879" y="5839"/>
+	<marker class="PROTEIN" id="s568" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5363" y="5517"/>
+	<marker class="PROTEIN" id="s552" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6074" y="5335"/>
+	<marker class="PROTEIN" id="s519" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6067" y="5196"/>
+	<marker class="PROTEIN" id="s538" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="5024" y="5672"/>
+	<marker class="PROTEIN" id="s495" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6481" y="5244"/>
+	<marker class="PROTEIN" id="s536" name="NF-&amp;kappa; B&lt;br/&gt;(p50)" x="6330" y="5832"/>
+	<marker class="PROTEIN" id="s671" name="NIK" x="5262" y="4958"/>
+	<marker class="PROTEIN" id="s200" name="NIK" x="5097" y="4958"/>
+	<marker class="PROTEIN" id="s873" name="NOD1" x="6083" y="3170"/>
+	<marker class="PROTEIN" id="s365" name="NOD1*" x="5937" y="3440"/>
+	<marker class="PROTEIN" id="s881" name="NOD1*" x="6084" y="3314"/>
+	<marker class="PROTEIN" id="s337" name="NOD1*" x="6006" y="4393"/>
+	<marker class="PROTEIN" id="s329" name="NOD1*" x="6083" y="4060"/>
+	<marker class="PROTEIN" id="s874" name="NOD2" x="6209" y="3168"/>
+	<marker class="PROTEIN" id="s882" name="NOD2*" x="6208" y="3374"/>
+	<marker class="PROTEIN" id="s331" name="NOD2*" x="6208" y="4059"/>
+	<marker class="PROTEIN" id="s368" name="NOD2*" x="6006" y="3544"/>
+	<marker class="PROTEIN" id="s165" name="NSF" x="2138" y="3509"/>
+	<marker class="PROTEIN" id="s170" name="NSF" x="2072" y="3411"/>
+	<marker class="PROTEIN" id="s527" name="NSF" x="2253" y="3521"/>
+	<marker class="GENE" id="s1305" name="NUR77" x="2105" y="5799"/>
+	<marker class="PROTEIN" id="s962" name="NUR77" x="1944" y="5791"/>
+	<marker class="PROTEIN" id="s963" name="NUR77*" x="1942" y="5694"/>
+	<marker class="GENE" id="s1000" name="Neisseria" x="3547" y="2373"/>
+	<marker class="GENE" id="s985" name="Neisseria&lt;br/&gt;Meningitides" x="3655" y="2390"/>
+	<marker class="SIMPLE_MOLECULE" id="s1020" name="Oligosaccharides&lt;br/&gt;of hyaluronic acid" x="2218" y="2470"/>
+	<marker class="SIMPLE_MOLECULE" id="s1039" name="Outer membrane&lt;br/&gt;protein A" x="3786" y="2468"/>
+	<marker class="SIMPLE_MOLECULE" id="s1043" name="Outer surface&lt;br/&gt;protein A lipoprotein" x="3358" y="2474"/>
+	<marker class="PROTEIN" id="s514" name="PAK1" x="2824" y="4116"/>
+	<marker class="PROTEIN" id="s1065" name="PAK1*" x="3244" y="4117"/>
+	<marker class="PROTEIN" id="s1064" name="PAK1*" x="3015" y="4117"/>
+	<marker class="PROTEIN" id="s413" name="PDK1" x="2300" y="4591"/>
+	<marker class="PROTEIN" id="s1140" name="PDK1*" x="2788" y="4591"/>
+	<marker class="PROTEIN" id="s1139" name="PDK1*" x="2520" y="4592"/>
+	<marker class="PROTEIN" id="s414" name="PDK2" x="2659" y="4621"/>
+	<marker class="SIMPLE_MOLECULE" id="s500" name="PI" x="1863" y="3304"/>
+	<marker class="SIMPLE_MOLECULE" id="s173" name="PI(3)P" x="2141" y="3336"/>
+	<marker class="SIMPLE_MOLECULE" id="s169" name="PI(3)P" x="1931" y="3426"/>
+	<marker class="SIMPLE_MOLECULE" id="s501" name="PI(3)P" x="1862" y="3382"/>
+	<marker class="PROTEIN" id="s807" name="PI(4)P5K" x="2445" y="4117"/>
+	<marker class="PROTEIN" id="s808" name="PI(4)P5K*" x="2206" y="4117"/>
+	<marker class="SIMPLE_MOLECULE" id="s412" name="PI3,4,5-P&lt;sub&gt;3&lt;/sub&gt;" x="2652" y="4304"/>
+	<marker class="SIMPLE_MOLECULE" id="s799" name="PI3,4-P&lt;sub&gt;2&lt;/sub&gt;" x="2808" y="4304"/>
+	<marker class="SIMPLE_MOLECULE" id="s929" name="PI3-P" x="2936" y="4303"/>
+	<marker class="PROTEIN" id="s1058" name="PI3K (p110)" x="2300" y="4226"/>
+	<marker class="PROTEIN" id="s95" name="PI3K (p110)" x="2469" y="4218"/>
+	<marker class="PROTEIN" id="s352" name="PI3K (p110)" x="2681" y="4218"/>
+	<marker class="PROTEIN" id="s1059" name="PI3K (p85)" x="2299" y="4170"/>
+	<marker class="PROTEIN" id="s96" name="PI3K (p85)" x="2469" y="4178"/>
+	<marker class="PROTEIN" id="s1053" name="PI3K(Vps34p)" x="1682" y="3700"/>
+	<marker class="PROTEIN" id="s773" name="PI3K(hVps34)" x="1681" y="3591"/>
+	<marker class="PROTEIN" id="s771" name="PI3K(hVps34)" x="1819" y="3692"/>
+	<marker class="PROTEIN" id="s772" name="PI3K(p150)" x="1819" y="3652"/>
+	<marker class="PROTEIN" id="s774" name="PI3K(p150)" x="1681" y="3550"/>
+	<marker class="PROTEIN" id="s1055" name="PI3K(p150)" x="1682" y="3646"/>
+	<marker class="PROTEIN" id="s353" name="PI3K(p85)*" x="2681" y="4177"/>
+	<marker class="SIMPLE_MOLECULE" id="s411" name="PI4,5-P&lt;sub&gt;2&lt;/sub&gt;" x="2292" y="4305"/>
+	<marker class="SIMPLE_MOLECULE" id="s809" name="PI4-P" x="2115" y="4304"/>
+	<marker class="PROTEIN" id="s1104" name="PKA" x="2553" y="5540"/>
+	<marker class="PROTEIN" id="s499" name="PKAc" x="6391" y="4941"/>
+	<marker class="PROTEIN" id="s1375" name="PKAc" x="6191" y="5009"/>
+	<marker class="PROTEIN" id="s505" name="PKAc" x="6389" y="5096"/>
+	<marker class="PROTEIN" id="s845" name="PKC&amp;alpha;    *&lt;br/&gt;PKC&amp;beta; II" x="2334" y="4818"/>
+	<marker class="PROTEIN" id="s841" name="PKC&amp;alpha;&lt;br/&gt;PKC&amp;beta; II" x="1972" y="4818">
+		<notes>
+<![CDATA[
+autophosphorylation sites:
+PKCalpha-&gt; T638, S657
+PKCbetaII-&gt; T641, S660
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s843" name="PKC&amp;alpha;&lt;br/&gt;PKC&amp;beta; II" x="2150" y="4819">
+		<notes>
+<![CDATA[
+autophosphorylation sites:
+PKCalpha-&gt; T638, S657
+PKCbetaII-&gt; T641, S660
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s839" name="PKC&amp;alpha;&lt;br/&gt;PKC&amp;beta; II" x="1973" y="4669">
+		<notes>
+<![CDATA[
+autophosphorylation sites:
+PKCalpha-&gt; T638, S657
+PKCbetaII-&gt; T641, S660
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s1544" name="PKC&amp;delta;" x="2605" y="4819"/>
+	<marker class="PROTEIN" id="s1545" name="PKC&amp;delta;" x="2738" y="4818"/>
+	<marker class="PROTEIN" id="s1543" name="PKC&amp;delta;" x="2471" y="4819"/>
+	<marker class="PROTEIN" id="s1546" name="PKC&amp;delta; *" x="2887" y="4817"/>
+	<marker class="PROTEIN" id="s758" name="PKC&amp;zeta;" x="6405" y="4199"/>
+	<marker class="PROTEIN" id="s1498" name="PKC&amp;zeta;" x="1773" y="4668"/>
+	<marker class="PROTEIN" id="s1525" name="PKC&amp;zeta;" x="1970" y="5484"/>
+	<marker class="PROTEIN" id="s1499" name="PKC&amp;zeta;" x="1773" y="4912"/>
+	<marker class="PROTEIN" id="s766" name="PKC&amp;zeta;" x="6402" y="4489"/>
+	<marker class="PROTEIN" id="s1498" name="PKC&amp;zeta;" x="6042" y="4332"/>
+	<marker class="PROTEIN" id="s484" name="PKC&amp;zeta;" x="6211" y="4322"/>
+	<marker class="PROTEIN" id="s266" name="PKR" x="5409" y="3732"/>
+	<marker class="PROTEIN" id="s267" name="PKR" x="5271" y="3734"/>
+	<marker class="PROTEIN" id="s265" name="PKR" x="5564" y="3734"/>
+	<marker class="PROTEIN" id="s74" name="PKR" x="5271" y="4014"/>
+	<marker class="PROTEIN" id="s847" name="PLC&amp;beta;  II" x="3145" y="4350"/>
+	<marker class="PROTEIN" id="s848" name="PLC&amp;beta;  II*" x="2915" y="4350"/>
+	<marker class="PROTEIN" id="s593" name="PLC&amp;gamma;" x="3144" y="4403"/>
+	<marker class="PROTEIN" id="s594" name="PLC&amp;gamma;" x="2820" y="4403"/>
+	<marker class="PROTEIN" id="s816" name="PLD" x="2080" y="4118"/>
+	<marker class="PROTEIN" id="s853" name="PLD*" x="1863" y="4119"/>
+	<marker class="PROTEIN" id="s590" name="PP1" x="2622" y="4540"/>
+	<marker class="PROTEIN" id="s635" name="PP2A&lt;br/&gt;A subunit" x="3747" y="3650"/>
+	<marker class="PROTEIN" id="s187" name="PP2A&lt;br/&gt;A subunit" x="3756" y="3807"/>
+	<marker class="PROTEIN" id="s192" name="PP2A&lt;br/&gt;A subunit" x="3755" y="4092"/>
+	<marker class="PROTEIN" id="s642" name="PP2A&lt;br/&gt;B subunit" x="3861" y="3909"/>
+	<marker class="PROTEIN" id="s190" name="PP2A&lt;br/&gt;B subunit" x="3756" y="4172"/>
+	<marker class="PROTEIN" id="s641" name="PP2A&lt;br/&gt;C subunit" x="3839" y="3650"/>
+	<marker class="PROTEIN" id="s189" name="PP2A&lt;br/&gt;C subunit" x="3757" y="3847"/>
+	<marker class="PROTEIN" id="s191" name="PP2A&lt;br/&gt;C subunit" x="3756" y="4132"/>
+	<marker class="PROTEIN" id="s1526" name="PP2A&lt;br/&gt;PP2B" x="3637" y="5661"/>
+	<marker class="PROTEIN" id="s1526" name="PP2A&lt;br/&gt;PP2B" x="1985" y="5618"/>
+	<marker class="PROTEIN" id="s1076" name="PP2B" x="4189" y="5802"/>
+	<marker class="PROTEIN" id="s184" name="PP2C&amp;beta; -1" x="4827" y="4792"/>
+	<marker class="PROTEIN" id="s185" name="PP2C&amp;epsilon;" x="4830" y="4654"/>
+	<marker class="GENE" id="s1051" name="Parasite" x="5543" y="2251"/>
+	<marker class="SIMPLE_MOLECULE" id="s991" name="Peptidoglycan" x="4959" y="2471"/>
+	<marker class="SIMPLE_MOLECULE" id="s995" name="Phenol-soluble&lt;br/&gt;modulin" x="4841" y="2467"/>
+	<marker class="ION" id="s1491" name="Pi" x="2723" y="3721"/>
+	<marker class="ION" id="s1491" name="Pi" x="2980" y="3720"/>
+	<marker class="ION" id="s1491" name="Pi" x="2395" y="3728"/>
+	<marker class="ION" id="s1491" name="Pi" x="2180" y="3716"/>
+	<marker class="ION" id="s1491" name="Pi" x="2065" y="3672"/>
+	<marker class="GENE" id="s1011" name="Plants" x="2821" y="2250"/>
+	<marker class="SIMPLE_MOLECULE" id="s1021" name="Polysaccharide fragment&lt;br/&gt;of heparan sulphate" x="1858" y="2467"/>
+	<marker class="SIMPLE_MOLECULE" id="s1001" name="Porins" x="3545" y="2470"/>
+	<marker class="GENE" id="s1003" name="Porphyromonas&lt;br/&gt;gingivalis" x="3279" y="2371"/>
+	<marker class="GENE" id="s1040" name="Pseudomonas &lt;br/&gt;aerug." x="3060" y="2371"/>
+	<marker class="PROTEIN" id="s79" name="RIP1" x="5509" y="4084"/>
+	<marker class="PROTEIN" id="s289" name="RIP1" x="5380" y="3917"/>
+	<marker class="PROTEIN" id="s332" name="RIP2" x="6144" y="4468"/>
+	<marker class="PROTEIN" id="s328" name="RIP2" x="6083" y="4104"/>
+	<marker class="PROTEIN" id="s336" name="RIP2" x="6003" y="4437"/>
+	<marker class="PROTEIN" id="s892" name="RIP2" x="6143" y="3684"/>
+	<marker class="PROTEIN" id="s330" name="RIP2" x="6208" y="4103"/>
+	<marker class="PROTEIN" id="s290" name="RIP3" x="5394" y="4000"/>
+	<marker class="PROTEIN" id="s1493" name="RKIP" x="5832" y="5023"/>
+	<marker class="PROTEIN" id="s1493" name="RKIP" x="3568" y="5023"/>
+	<marker class="PHENOTYPE" id="s805" name="RNA&lt;br/&gt;metabolism" x="2263" y="5565"/>
+	<marker class="PHENOTYPE" id="s838" name="ROS&lt;br/&gt;production" x="2581" y="5181"/>
+	<marker class="GENE" id="s1013" name="RS virus" x="6184" y="2372"/>
+	<marker class="PROTEIN" id="s160" name="Rab5" x="2013" y="3810"/>
+	<marker class="PROTEIN" id="s775" name="Rab5" x="1682" y="3506"/>
+	<marker class="PROTEIN" id="s158" name="Rab5" x="2013" y="3602"/>
+	<marker class="PROTEIN" id="s174" name="Rab5" x="2237" y="3370"/>
+	<marker class="PROTEIN" id="s163" name="Rabaptin-5" x="1821" y="3802"/>
+	<marker class="PROTEIN" id="s509" name="Rabaptin-5" x="1683" y="3816"/>
+	<marker class="PROTEIN" id="s164" name="Rabex-5" x="1821" y="3762"/>
+	<marker class="PROTEIN" id="s508" name="Rabex-5" x="1683" y="3750"/>
+	<marker class="PROTEIN" id="s86" name="Rac1" x="2783" y="3809"/>
+	<marker class="PROTEIN" id="s244" name="Rac1" x="2539" y="5063"/>
+	<marker class="PROTEIN" id="s84" name="Rac1" x="2782" y="3606"/>
+	<marker class="PROTEIN" id="s463" name="Rac1*" x="3338" y="3905"/>
+	<marker class="PROTEIN" id="s221" name="Raf-1" x="3375" y="4917"/>
+	<marker class="PROTEIN" id="s219" name="Raf-1" x="3430" y="4714"/>
+	<marker class="PROTEIN" id="s210" name="Raf-1" x="3993" y="4720"/>
+	<marker class="PROTEIN" id="s627" name="Raf-1" x="3353" y="4417"/>
+	<marker class="PROTEIN" id="s631" name="Raf-1" x="3523" y="4529"/>
+	<marker class="PROTEIN" id="s630" name="Raf-1" x="3355" y="4529"/>
+	<marker class="PROTEIN" id="s215" name="Raf-1" x="3618" y="4717"/>
+	<marker class="PROTEIN" id="s637" name="Raf-1" x="3522" y="4353"/>
+	<marker class="PROTEIN" id="s181" name="Raf-1" x="3629" y="4066"/>
+	<marker class="PROTEIN" id="s434" name="Raf-1" x="3522" y="4045"/>
+	<marker class="PROTEIN" id="s206" name="Raf-1" x="4177" y="4717"/>
+	<marker class="PROTEIN" id="s1066" name="Raf-1*" x="3352" y="4044"/>
+	<marker class="PROTEIN" id="s1067" name="Raf-1*" x="3353" y="4193"/>
+	<marker class="PROTEIN" id="s155" name="Ras" x="2128" y="3766"/>
+	<marker class="PROTEIN" id="s150" name="Ras" x="2367" y="3891"/>
+	<marker class="PROTEIN" id="s149" name="Ras" x="2255" y="3806"/>
+	<marker class="PROTEIN" id="s147" name="Ras" x="2255" y="3607"/>
+	<marker class="PROTEIN" id="s239" name="RhoA" x="3066" y="3602"/>
+	<marker class="PROTEIN" id="s237" name="RhoA" x="3066" y="3806"/>
+	<marker class="PROTEIN" id="s454" name="RhoA*" x="3330" y="3806"/>
+	<marker class="PROTEIN" id="s813" name="RhoGDI" x="2912" y="3680"/>
+	<marker class="PROTEIN" id="s478" name="Rin1" x="2187" y="3901"/>
+	<marker class="PROTEIN" id="s154" name="Rin1" x="2129" y="3806"/>
+	<marker class="PROTEIN" id="s1260" name="SERCA" x="2079" y="5051"/>
+	<marker class="PROTEIN" id="s1262" name="SERCA" x="2080" y="5182"/>
+	<marker class="PROTEIN" id="s316" name="SIGIRR" x="3460" y="3404"/>
+	<marker class="PROTEIN" id="s321" name="SIGIRR" x="3183" y="3457"/>
+	<marker class="PROTEIN" id="s323" name="SIGIRR" x="3462" y="3662"/>
+	<marker class="PROTEIN" id="s286" name="SIGIRR" x="3424" y="3543"/>
+	<marker class="PROTEIN" id="s291" name="SIGIRR" x="3175" y="3244"/>
+	<marker class="PROTEIN" id="s295" name="SIGIRR" x="3456" y="3279"/>
+	<marker class="PROTEIN" id="s943" name="SIGIRR" x="3126" y="3366"/>
+	<marker class="PROTEIN" id="s942" name="SIGIRR" x="2524" y="3252"/>
+	<marker class="PROTEIN" id="s314" name="SIGIRR" x="3176" y="3306"/>
+	<marker class="PROTEIN" id="s1502" name="SOCS1" x="5259" y="5021"/>
+	<marker class="PROTEIN" id="s1502" name="SOCS1" x="4141" y="3915"/>
+	<marker class="GENE" id="s1319" name="SRE" x="4015" y="5784"/>
+	<marker class="GENE" id="s428" name="SRE" x="3873" y="5915"/>
+	<marker class="PROTEIN" id="s261" name="ST2L" x="4143" y="3260"/>
+	<marker class="PROTEIN" id="s932" name="ST2L" x="4302" y="3326"/>
+	<marker class="SIMPLE_MOLECULE" id="s1046" name="STF" x="4713" y="2470"/>
+	<marker class="PROTEIN" id="s599" name="Sab" x="2160" y="4422"/>
+	<marker class="PROTEIN" id="s179" name="Sab" x="1862" y="4439"/>
+	<marker class="GENE" id="s1037" name="Salmonella&lt;br/&gt;enterica " x="3988" y="2371"/>
+	<marker class="SIMPLE_MOLECULE" id="s983" name="Soluble factors" x="3655" y="2471"/>
+	<marker class="PROTEIN" id="s588" name="Src kinases" x="2692" y="3498"/>
+	<marker class="PROTEIN" id="s589" name="Src kinases*" x="2880" y="3497"/>
+	<marker class="GENE" id="s994" name="Staphylococcus&lt;br/&gt;epidermidis" x="4843" y="2373"/>
+	<marker class="PROTEIN" id="s166" name="Syntaxin 13" x="2136" y="3469"/>
+	<marker class="PROTEIN" id="s171" name="Syntaxin 13" x="2144" y="3411"/>
+	<marker class="PROTEIN" id="s528" name="Syntaxin 13" x="2251" y="3455"/>
+	<marker class="GENE" id="s1028" name="Synthetic compounds" x="6462" y="2249"/>
+	<marker class="PROTEIN" id="s25" name="TAB1" x="5471" y="4802"/>
+	<marker class="PROTEIN" id="s36" name="TAB1" x="5291" y="4805"/>
+	<marker class="PROTEIN" id="s702" name="TAB1" x="5694" y="4577"/>
+	<marker class="PROTEIN" id="s53" name="TAB1" x="5111" y="4807"/>
+	<marker class="PROTEIN" id="s61" name="TAB1" x="5816" y="4356"/>
+	<marker class="PROTEIN" id="s63" name="TAB1" x="4935" y="4808"/>
+	<marker class="PROTEIN" id="s71" name="TAB1" x="4719" y="4806"/>
+	<marker class="PROTEIN" id="s18" name="TAB1" x="5442" y="4396"/>
+	<marker class="PROTEIN" id="s710" name="TAB1" x="5891" y="4812"/>
+	<marker class="PROTEIN" id="s33" name="TAB2&lt;br/&gt;TAB3" x="5293" y="4724"/>
+	<marker class="PROTEIN" id="s700" name="TAB2&lt;br/&gt;TAB3" x="5695" y="4509"/>
+	<marker class="PROTEIN" id="s22" name="TAB2&lt;br/&gt;TAB3" x="5473" y="4722"/>
+	<marker class="PROTEIN" id="s50" name="TAB2&lt;br/&gt;TAB3" x="5113" y="4722"/>
+	<marker class="PROTEIN" id="s57" name="TAB2&lt;br/&gt;TAB3" x="4939" y="4723"/>
+	<marker class="PROTEIN" id="s708" name="TAB2&lt;br/&gt;TAB3" x="5894" y="4731"/>
+	<marker class="PROTEIN" id="s16" name="TAB2&lt;br/&gt;TAB3" x="5441" y="4316"/>
+	<marker class="PROTEIN" id="s60" name="TAB2&lt;br/&gt;TAB3" x="5634" y="4287"/>
+	<marker class="PROTEIN" id="s67" name="TAB2&lt;br/&gt;TAB3" x="4720" y="4726"/>
+	<marker class="PROTEIN" id="s34" name="TAK1" x="5292" y="4765"/>
+	<marker class="PROTEIN" id="s24" name="TAK1" x="5470" y="4762"/>
+	<marker class="PROTEIN" id="s701" name="TAK1" x="5695" y="4543"/>
+	<marker class="PROTEIN" id="s52" name="TAK1" x="5111" y="4766"/>
+	<marker class="PROTEIN" id="s58" name="TAK1" x="4937" y="4767"/>
+	<marker class="PROTEIN" id="s709" name="TAK1" x="5892" y="4772"/>
+	<marker class="PROTEIN" id="s59" name="TAK1" x="5741" y="4303"/>
+	<marker class="PROTEIN" id="s68" name="TAK1" x="4720" y="4766"/>
+	<marker class="PROTEIN" id="s17" name="TAK1" x="5442" y="4356"/>
+	<marker class="PROTEIN" id="s274" name="TBK1" x="5705" y="3826"/>
+	<marker class="PROTEIN" id="s283" name="TBK1*" x="5925" y="3826"/>
+	<marker class="PROTEIN" id="s40" name="TICAM1" x="5809" y="3571">
+		<notes>
+<![CDATA[
+also called TRIF
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s81" name="TICAM1*" x="5549" y="4045"/>
+	<marker class="PROTEIN" id="s263" name="TICAM1*" x="5808" y="3732"/>
+	<marker class="PROTEIN" id="s41" name="TICAM2" x="5261" y="3650">
+		<notes>
+<![CDATA[
+also called TRAM or TIRP
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s264" name="TICAM2*" x="5402" y="3649"/>
+	<marker class="PROTEIN" id="s705" name="TIFA" x="5935" y="4664"/>
+	<marker class="PROTEIN" id="s767" name="TIFA" x="6444" y="4364"/>
+	<marker class="PROTEIN" id="s697" name="TIFA" x="5736" y="4451"/>
+	<marker class="PROTEIN" id="s692" name="TIFA" x="4889" y="4501"/>
+	<marker class="PROTEIN" id="s682" name="TIFA" x="4629" y="4168"/>
+	<marker class="PROTEIN" id="s732" name="TIFA" x="4411" y="4455"/>
+	<marker class="PROTEIN" id="s1473" name="TIFA" x="4796" y="4026"/>
+	<marker class="PROTEIN" id="s714" name="TIFA" x="4598" y="4723"/>
+	<marker class="PROTEIN" id="s579" name="TIFA" x="4889" y="4316"/>
+	<marker class="PROTEIN" id="s726" name="TIFA" x="4398" y="4738"/>
+	<marker class="PROTEIN" id="s1473" name="TIFA" x="5744" y="4793"/>
+	<marker class="PROTEIN" id="s720" name="TIFA" x="4196" y="4397"/>
+	<marker class="PROTEIN" id="s626" name="TIFA" x="5189" y="4162"/>
+	<marker class="PROTEIN" id="s759" name="TIFA" x="6447" y="4071"/>
+	<marker class="PROTEIN" id="s654" name="TIR domain" x="3918" y="3996"/>
+	<marker class="PROTEIN" id="s639" name="TIR domain" x="3920" y="3687"/>
+	<marker class="PROTEIN" id="s638" name="TIR domain" x="5145" y="4026"/>
+	<marker class="PROTEIN" id="s603" name="TIR domain" x="4699" y="3709"/>
+	<marker class="PROTEIN" id="s662" name="TIR domain" x="4153" y="3993"/>
+	<marker class="PROTEIN" id="s542" name="TIR domain" x="4416" y="4264"/>
+	<marker class="PROTEIN" id="s97" name="TIR domain" x="3923" y="3246"/>
+	<marker class="PROTEIN" id="s13" name="TIR domain" x="4059" y="3140"/>
+	<marker class="PROTEIN" id="s609" name="TIR domain" x="4907" y="3709"/>
+	<marker class="PROTEIN" id="s546" name="TIR domain" x="4698" y="3484"/>
+	<marker class="PROTEIN" id="s100" name="TIR domain" x="4699" y="3236"/>
+	<marker class="PROTEIN" id="s542" name="TIR domain" x="3925" y="3457"/>
+	<marker class="PROTEIN" id="s226" name="TIR domain" x="4118" y="3744"/>
+	<marker class="PROTEIN" id="s689" name="TIR domain" x="4585" y="4020"/>
+	<marker class="PROTEIN" id="s546" name="TIR domain" x="5280" y="4285"/>
+	<marker class="PROTEIN" id="s342" name="TIR domain" x="4537" y="3667"/>
+	<marker class="PROTEIN" id="s741" name="TIR domain" x="6346" y="3449"/>
+	<marker class="PROTEIN" id="s679" name="TIR domain" x="4376" y="4027"/>
+	<marker class="PROTEIN" id="s746" name="TIR domain" x="6352" y="3660"/>
+	<marker class="PROTEIN" id="s753" name="TIR domain" x="6358" y="3835"/>
+	<marker class="PROTEIN" id="s43" name="TIR domain" x="4360" y="3106"/>
+	<marker class="PROTEIN" id="s619" name="TIR domain" x="5140" y="3710"/>
+	<marker class="PROTEIN" id="s345" name="TIR domain" x="3689" y="3413"/>
+	<marker class="PROTEIN" id="s98" name="TIRAP" x="3926" y="3270">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s655" name="TIRAP" x="3965" y="4020">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s663" name="TIRAP" x="4200" y="4017">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s644" name="TIRAP" x="3964" y="3711">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s39" name="TIRAP" x="4228" y="3161">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s346" name="TIRAP" x="3695" y="3437">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s262" name="TIRAP" x="4144" y="3293">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s543" name="TIRAP" x="4418" y="4288">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s12" name="TIRAP" x="4062" y="3164">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s543" name="TIRAP" x="3927" y="3481">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s688" name="TIRAP" x="4588" y="4040">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s232" name="TIRAP" x="4180" y="3768">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s678" name="TIRAP" x="4378" y="4051">
+		<notes>
+<![CDATA[
+also called Mal
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s133" name="TLR1" x="4415" y="2967"/>
+	<marker class="PROTEIN" id="s105" name="TLR1" x="4104" y="2966"/>
+	<marker class="RNA" id="s941" name="TLR1" x="1684" y="5705"/>
+	<marker class="PROTEIN" id="s1" name="TLR1" x="4301" y="2789"/>
+	<marker class="GENE" id="s939" name="TLR1" x="1678" y="5629"/>
+	<marker class="SIMPLE_MOLECULE" id="s135" name="TLR1/10 ligand" x="4463" y="2939"/>
+	<marker class="SIMPLE_MOLECULE" id="s307" name="TLR1/10 ligand" x="4461" y="2739"/>
+	<marker class="SIMPLE_MOLECULE" id="s303" name="TLR1/2 ligand" x="4150" y="2739"/>
+	<marker class="SIMPLE_MOLECULE" id="s107" name="TLR1/2 ligand" x="4152" y="2936"/>
+	<marker class="PROTEIN" id="s140" name="TLR10" x="4970" y="2960"/>
+	<marker class="PROTEIN" id="s137" name="TLR10" x="4765" y="2970"/>
+	<marker class="PROTEIN" id="s134" name="TLR10" x="4495" y="2969"/>
+	<marker class="PROTEIN" id="s10" name="TLR10" x="4848" y="2790"/>
+	<marker class="SIMPLE_MOLECULE" id="s306" name="TLR10 ligand" x="4967" y="2740"/>
+	<marker class="SIMPLE_MOLECULE" id="s141" name="TLR10 ligand" x="4967" y="2935"/>
+	<marker class="PROTEIN" id="s144" name="TLR11" x="5212" y="2965">
+		<notes>
+<![CDATA[
+only in mouse
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s461" name="TLR11" x="5109" y="2789">
+		<notes>
+<![CDATA[
+only in mouse
+]]>		</notes>
+	</marker>
+	<marker class="SIMPLE_MOLECULE" id="s462" name="TLR11 ligand" x="5210" y="2740"/>
+	<marker class="SIMPLE_MOLECULE" id="s145" name="TLR11 ligand" x="5210" y="2940"/>
+	<marker class="PROTEIN" id="s106" name="TLR2" x="4184" y="2967"/>
+	<marker class="PROTEIN" id="s109" name="TLR2" x="3805" y="2965"/>
+	<marker class="PROTEIN" id="s136" name="TLR2" x="4685" y="2970"/>
+	<marker class="PROTEIN" id="s91" name="TLR2" x="3332" y="2947"/>
+	<marker class="PROTEIN" id="s93" name="TLR2" x="2963" y="2969"/>
+	<marker class="PROTEIN" id="s2" name="TLR2" x="3725" y="2790"/>
+	<marker class="SIMPLE_MOLECULE" id="s305" name="TLR2 ligand" x="3331" y="2741"/>
+	<marker class="SIMPLE_MOLECULE" id="s94" name="TLR2 ligand" x="2958" y="2945"/>
+	<marker class="SIMPLE_MOLECULE" id="s92" name="TLR2 ligand" x="3331" y="2922"/>
+	<marker class="SIMPLE_MOLECULE" id="s250" name="TLR2 ligand" x="3234" y="2790"/>
+	<marker class="SIMPLE_MOLECULE" id="s308" name="TLR2/10 ligand" x="4733" y="2739"/>
+	<marker class="SIMPLE_MOLECULE" id="s138" name="TLR2/10 ligand" x="4733" y="2939"/>
+	<marker class="SIMPLE_MOLECULE" id="s110" name="TLR2/6 ligand" x="3850" y="2934"/>
+	<marker class="SIMPLE_MOLECULE" id="s304" name="TLR2/6 ligand" x="3850" y="2739"/>
+	<marker class="PROTEIN" id="s233" name="TLR3" x="5879" y="3264"/>
+	<marker class="PROTEIN" id="s235" name="TLR3" x="5745" y="3258"/>
+	<marker class="PROTEIN" id="s3" name="TLR3" x="5936" y="3128"/>
+	<marker class="SIMPLE_MOLECULE" id="s234" name="TLR3 ligand" x="5875" y="3239"/>
+	<marker class="SIMPLE_MOLECULE" id="s311" name="TLR3 ligand" x="5874" y="2740"/>
+	<marker class="SIMPLE_MOLECULE" id="s236" name="TLR3 ligand" x="5741" y="3233"/>
+	<marker class="PROTEIN" id="s301" name="TLR4" x="3096" y="3307"/>
+	<marker class="RNA" id="s940" name="TLR4" x="1776" y="5701"/>
+	<marker class="PROTEIN" id="s315" name="TLR4" x="3380" y="3405"/>
+	<marker class="PROTEIN" id="s4" name="TLR4" x="2632" y="2789"/>
+	<marker class="PROTEIN" id="s9" name="TLR4" x="2507" y="2874"/>
+	<marker class="PROTEIN" id="s103" name="TLR4" x="2702" y="2973"/>
+	<marker class="GENE" id="s938" name="TLR4" x="1771" y="5630"/>
+	<marker class="SIMPLE_MOLECULE" id="s102" name="TLR4 ligand" x="2697" y="2949"/>
+	<marker class="SIMPLE_MOLECULE" id="s310" name="TLR4 ligand" x="2724" y="2740"/>
+	<marker class="PROTEIN" id="s294" name="TLR5" x="3376" y="3281"/>
+	<marker class="PROTEIN" id="s142" name="TLR5" x="3590" y="2964"/>
+	<marker class="PROTEIN" id="s287" name="TLR5" x="3095" y="3244"/>
+	<marker class="PROTEIN" id="s5" name="TLR5" x="3461" y="2790"/>
+	<marker class="SIMPLE_MOLECULE" id="s143" name="TLR5 ligand" x="3589" y="2939"/>
+	<marker class="SIMPLE_MOLECULE" id="s309" name="TLR5 ligand" x="3588" y="2740"/>
+	<marker class="PROTEIN" id="s108" name="TLR6" x="3885" y="2965"/>
+	<marker class="PROTEIN" id="s6" name="TLR6" x="3942" y="2789"/>
+	<marker class="PROTEIN" id="s111" name="TLR7" x="5400" y="3138"/>
+	<marker class="PROTEIN" id="s7" name="TLR7" x="5508" y="3125"/>
+	<marker class="SIMPLE_MOLECULE" id="s312" name="TLR7 ligand" x="5397" y="2740"/>
+	<marker class="SIMPLE_MOLECULE" id="s112" name="TLR7 ligand" x="5398" y="3113"/>
+	<marker class="PROTEIN" id="s126" name="TLR8" x="5588" y="3221"/>
+	<marker class="PROTEIN" id="s8" name="TLR8" x="5655" y="3123"/>
+	<marker class="SIMPLE_MOLECULE" id="s313" name="TLR8 ligand" x="5585" y="2739"/>
+	<marker class="SIMPLE_MOLECULE" id="s132" name="TLR8 ligand" x="5582" y="3197"/>
+	<marker class="PROTEIN" id="s788" name="TLR9" x="2035" y="3246"/>
+	<marker class="PROTEIN" id="s319" name="TLR9" x="3103" y="3456"/>
+	<marker class="PROTEIN" id="s322" name="TLR9" x="3382" y="3661"/>
+	<marker class="PROTEIN" id="s152" name="TLR9" x="2368" y="3808"/>
+	<marker class="PROTEIN" id="s119" name="TLR9" x="2368" y="3199"/>
+	<marker class="PROTEIN" id="s851" name="TLR9" x="1744" y="3246"/>
+	<marker class="SIMPLE_MOLECULE" id="s477" name="TLR9 ligand" x="1950" y="2740"/>
+	<marker class="SIMPLE_MOLECULE" id="s153" name="TLR9 ligand" x="2366" y="3783"/>
+	<marker class="SIMPLE_MOLECULE" id="s852" name="TLR9 ligand" x="1951" y="3200"/>
+	<marker class="SIMPLE_MOLECULE" id="s121" name="TLR9 ligand" x="2367" y="3174"/>
+	<marker class="PROTEIN" id="s296" name="TOLLIP" x="6359" y="3997"/>
+	<marker class="PROTEIN" id="s582" name="TOLLIP" x="4171" y="3615"/>
+	<marker class="PROTEIN" id="s660" name="TOLLIP" x="3875" y="4020"/>
+	<marker class="PROTEIN" id="s653" name="TOLLIP" x="3871" y="3711"/>
+	<marker class="PROTEIN" id="s739" name="TOLLIP" x="6439" y="3481"/>
+	<marker class="PROTEIN" id="s227" name="TOLLIP" x="4080" y="3768"/>
+	<marker class="PROTEIN" id="s1487" name="TOLLIP" x="4268" y="3721"/>
+	<marker class="PROTEIN" id="s343" name="TOLLIP" x="4496" y="3802"/>
+	<marker class="PROTEIN" id="s749" name="TOLLIP" x="6440" y="3864"/>
+	<marker class="PROTEIN" id="s744" name="TOLLIP" x="6438" y="3688"/>
+	<marker class="PROTEIN" id="s669" name="TOLLIP" x="4104" y="4020"/>
+	<marker class="PROTEIN" id="s435" name="TOLLIP" x="4302" y="3543"/>
+	<marker class="PROTEIN" id="s296" name="TOLLIP" x="4207" y="4217"/>
+	<marker class="PROTEIN" id="s297" name="TOLLIP" x="4087" y="4219"/>
+	<marker class="PROTEIN" id="s1068" name="TOLLIP*" x="4269" y="4342"/>
+	<marker class="PROTEIN" id="s376" name="TPL2&lt;br/&gt;(p52)" x="4488" y="5183"/>
+	<marker class="PROTEIN" id="s370" name="TPL2&lt;br/&gt;(p52)" x="4708" y="5091"/>
+	<marker class="PROTEIN" id="s615" name="TPL2&lt;br/&gt;(p52)" x="4903" y="5020"/>
+	<marker class="PROTEIN" id="s374" name="TPL2&lt;br/&gt;(p52)" x="4529" y="5090"/>
+	<marker class="PROTEIN" id="s372" name="TPL2&lt;br/&gt;(p58)" x="4473" y="5090"/>
+	<marker class="PROTEIN" id="s225" name="TPL2&lt;br/&gt;(p58)" x="4533" y="4957"/>
+	<marker class="PROTEIN" id="s618" name="TPL2&lt;br/&gt;(p58)" x="4763" y="4962"/>
+	<marker class="PROTEIN" id="s369" name="TPL2&lt;br/&gt;(p58)" x="4652" y="5090"/>
+	<marker class="PROTEIN" id="s614" name="TPL2&lt;br/&gt;(p58)" x="4869" y="4961"/>
+	<marker class="PROTEIN" id="s903" name="TRAF2" x="6035" y="3865"/>
+	<marker class="PROTEIN" id="s334" name="TRAF2" x="6143" y="4388"/>
+	<marker class="PROTEIN" id="s755" name="TRAF6" x="6403" y="4113"/>
+	<marker class="PROTEIN" id="s704" name="TRAF6" x="5896" y="4686"/>
+	<marker class="PROTEIN" id="s763" name="TRAF6" x="6405" y="4399"/>
+	<marker class="PROTEIN" id="s32" name="TRAF6" x="5293" y="4679"/>
+	<marker class="PROTEIN" id="s324" name="TRAF6" x="3422" y="3699"/>
+	<marker class="PROTEIN" id="s80" name="TRAF6" x="5594" y="4085"/>
+	<marker class="PROTEIN" id="s696" name="TRAF6" x="5697" y="4471"/>
+	<marker class="PROTEIN" id="s691" name="TRAF6" x="4850" y="4522"/>
+	<marker class="PROTEIN" id="s285" name="TRAF6" x="3424" y="3597"/>
+	<marker class="PROTEIN" id="s968" name="TRAF6" x="5679" y="3507"/>
+	<marker class="PROTEIN" id="s49" name="TRAF6" x="5115" y="4677"/>
+	<marker class="PROTEIN" id="s56" name="TRAF6" x="4939" y="4678"/>
+	<marker class="PROTEIN" id="s31" name="TRAF6" x="4320" y="3888"/>
+	<marker class="PROTEIN" id="s712" name="TRAF6" x="4556" y="4752"/>
+	<marker class="PROTEIN" id="s318" name="TRAF6" x="3427" y="3445"/>
+	<marker class="PROTEIN" id="s300" name="TRAF6" x="3417" y="3318"/>
+	<marker class="PROTEIN" id="s66" name="TRAF6" x="4720" y="4681"/>
+	<marker class="PROTEIN" id="s73" name="TRAF6" x="5271" y="4064"/>
+	<marker class="PROTEIN" id="s724" name="TRAF6" x="4353" y="4753"/>
+	<marker class="PROTEIN" id="s729" name="TRAF6" x="4370" y="4475"/>
+	<marker class="PROTEIN" id="s21" name="TRAF6" x="5477" y="4677"/>
+	<marker class="PROTEIN" id="s578" name="TRAF6" x="4850" y="4341"/>
+	<marker class="PROTEIN" id="s681" name="TRAF6" x="4594" y="4186"/>
+	<marker class="PROTEIN" id="s426" name="TRAF6" x="5424" y="3548"/>
+	<marker class="PROTEIN" id="s420" name="TRAF6" x="5048" y="3548"/>
+	<marker class="PROTEIN" id="s718" name="TRAF6" x="4154" y="4418"/>
+	<marker class="PROTEIN" id="s62" name="TRAF6" x="4449" y="3887"/>
+	<marker class="PROTEIN" id="s623" name="TRAF6" x="5153" y="4186"/>
+	<marker class="PROTEIN" id="s339" name="TRAF6" x="4585" y="3803"/>
+	<marker class="PROTEIN" id="s954" name="TRAILR" x="6234" y="2957"/>
+	<marker class="PROTEIN" id="s957" name="TRIAD3A" x="2449" y="3047"/>
+	<marker class="PROTEIN" id="s335" name="TRIP6" x="6002" y="4477"/>
+	<marker class="PROTEIN" id="s899" name="TRIP6" x="6004" y="3685"/>
+	<marker class="PROTEIN" id="s333" name="TRIP6" x="6144" y="4428"/>
+	<marker class="SIMPLE_MOLECULE" id="s1012" name="Taxol" x="2821" y="2459"/>
+	<marker class="GENE" id="s1034" name="Toxoplasma&lt;br/&gt;gondii" x="5571" y="2370"/>
+	<marker class="GENE" id="s998" name="Treponema&lt;br/&gt;maltophilum" x="3886" y="2372"/>
+	<marker class="SIMPLE_MOLECULE" id="s984" name="Triacetylated&lt;br/&gt;lipoproteins" x="4362" y="2472"/>
+	<marker class="PROTEIN" id="s914" name="Trx&lt;br/&gt;reductase" x="2825" y="5150"/>
+	<marker class="GENE" id="s996" name="Trypanosoma&lt;br/&gt;cruzi" x="5461" y="2370"/>
+	<marker class="SIMPLE_MOLECULE" id="s1019" name="Type III repeat extra&lt;br/&gt;domain A of fibronectin" x="2414" y="2471"/>
+	<marker class="PROTEIN" id="s26" name="Ubc13" x="5257" y="4652"/>
+	<marker class="PROTEIN" id="s37" name="Ubc13" x="5082" y="4649"/>
+	<marker class="PROTEIN" id="s70" name="Ubc13" x="4792" y="3926"/>
+	<marker class="PROTEIN" id="s629" name="Ubc13" x="5077" y="4199"/>
+	<marker class="PROTEIN" id="s727" name="Ubc13" x="4276" y="4738"/>
+	<marker class="PROTEIN" id="s698" name="Ubc13" x="5621" y="4466"/>
+	<marker class="PROTEIN" id="s769" name="Ubc13" x="6454" y="4398"/>
+	<marker class="PROTEIN" id="s54" name="Ubc13" x="4901" y="4651"/>
+	<marker class="PROTEIN" id="s760" name="Ubc13" x="6452" y="4110"/>
+	<marker class="PROTEIN" id="s684" name="Ubc13" x="4518" y="4201"/>
+	<marker class="PROTEIN" id="s693" name="Ubc13" x="4774" y="4516"/>
+	<marker class="PROTEIN" id="s733" name="Ubc13" x="4295" y="4467"/>
+	<marker class="PROTEIN" id="s715" name="Ubc13" x="4479" y="4741"/>
+	<marker class="PROTEIN" id="s64" name="Ubc13" x="4682" y="4655"/>
+	<marker class="PROTEIN" id="s19" name="Ubc13" x="5443" y="4651"/>
+	<marker class="PROTEIN" id="s580" name="Ubc13" x="4774" y="4332"/>
+	<marker class="PROTEIN" id="s721" name="Ubc13" x="4082" y="4414"/>
+	<marker class="PROTEIN" id="s706" name="Ubc13" x="5820" y="4677"/>
+	<marker class="PROTEIN" id="s252" name="UbcH5" x="5878" y="5476"/>
+	<marker class="PROTEIN" id="s1198" name="UbcH5a" x="4721" y="5349"/>
+	<marker class="PROTEIN" id="s27" name="Uev1A" x="5297" y="4652"/>
+	<marker class="PROTEIN" id="s683" name="Uev1A" x="4517" y="4180"/>
+	<marker class="PROTEIN" id="s628" name="Uev1A" x="5078" y="4175"/>
+	<marker class="PROTEIN" id="s699" name="Uev1A" x="5621" y="4486"/>
+	<marker class="PROTEIN" id="s694" name="Uev1A" x="4774" y="4539"/>
+	<marker class="PROTEIN" id="s45" name="Uev1A" x="5122" y="4650"/>
+	<marker class="PROTEIN" id="s55" name="Uev1A" x="4941" y="4650"/>
+	<marker class="PROTEIN" id="s761" name="Uev1A" x="6453" y="4136"/>
+	<marker class="PROTEIN" id="s65" name="Uev1A" x="4722" y="4653"/>
+	<marker class="PROTEIN" id="s734" name="Uev1A" x="4295" y="4485"/>
+	<marker class="PROTEIN" id="s716" name="Uev1A" x="4479" y="4761"/>
+	<marker class="PROTEIN" id="s728" name="Uev1A" x="4277" y="4766"/>
+	<marker class="PROTEIN" id="s20" name="Uev1A" x="5483" y="4651"/>
+	<marker class="PROTEIN" id="s581" name="Uev1A" x="4774" y="4357"/>
+	<marker class="PROTEIN" id="s722" name="Uev1A" x="4082" y="4438"/>
+	<marker class="PROTEIN" id="s69" name="Uev1A" x="4794" y="3976"/>
+	<marker class="PROTEIN" id="s707" name="Uev1A" x="5821" y="4703"/>
+	<marker class="PROTEIN" id="s770" name="Uev1A" x="6452" y="4426"/>
+	<marker class="SIMPLE_MOLECULE" id="s1032" name="Unmethylated&lt;br/&gt;CpG DNA" x="5825" y="2470"/>
+	<marker class="GENE" id="s1033" name="Uropathogenic&lt;br/&gt;bacteria" x="5199" y="2369"/>
+	<marker class="PROTEIN" id="s444" name="Vav1" x="2683" y="3680"/>
+	<marker class="PROTEIN" id="s443" name="Vav1" x="2683" y="4114"/>
+	<marker class="GENE" id="s1009" name="Viruses" x="6104" y="2250"/>
+	<marker class="SIMPLE_MOLECULE" id="s1006" name="Zymosan" x="5682" y="2469"/>
+	<marker class="PROTEIN" id="s253" name="&amp;beta; -TrCP1" x="5884" y="5549"/>
+	<marker class="SIMPLE_MOLECULE" id="s1050" name="&amp;beta; -defensin2" x="2055" y="2468"/>
+	<marker class="PROTEIN" id="s1188" name="&amp;beta; TrCP2" x="5883" y="5262"/>
+	<marker class="GENE" id="s1154" name="&amp;kappa; B site" x="5678" y="5744"/>
+	<marker class="GENE" id="s532" name="&amp;kappa; B site" x="5844" y="5891"/>
+	<marker class="GENE" id="s540" name="&amp;kappa; B site" x="4832" y="5721"/>
+	<marker class="DEGRADED" id="s604" name="a1115_degraded" x="3096" y="4549"/>
+	<marker class="DEGRADED" id="s624" name="a1146_degraded" x="4811" y="5047"/>
+	<marker class="DEGRADED" id="s622" name="a1159_degraded" x="4690" y="5018"/>
+	<marker class="DEGRADED" id="s89" name="a153_degraded" x="5780" y="4620"/>
+	<marker class="DEGRADED" id="s1063" name="a1901_degraded" x="3513" y="4630"/>
+	<marker class="DEGRADED" id="s1078" name="a1909_degraded" x="3844" y="5804"/>
+	<marker class="DEGRADED" id="s1077" name="a1910_degraded" x="3379" y="5669"/>
+	<marker class="DEGRADED" id="s1197" name="a2069_degraded" x="4469" y="5287"/>
+	<marker class="DEGRADED" id="s1228" name="a2129_degraded" x="6461" y="4978"/>
+	<marker class="DEGRADED" id="s1251" name="a2156_degraded" x="6096" y="5124"/>
+	<marker class="DEGRADED" id="s1243" name="a2170_degraded" x="5548" y="5686"/>
+	<marker class="DEGRADED" id="s1426" name="a2382_degraded" x="6451" y="4000"/>
+	<marker class="DEGRADED" id="s871" name="a385_degraded" x="5148" y="5000"/>
+	<marker class="DEGRADED" id="s1482" name="a399_degraded" x="5102" y="5004"/>
+	<marker class="DEGRADED" id="s1482" name="a399_degraded" x="4873" y="5202"/>
+	<marker class="DEGRADED" id="s258" name="a454_degraded" x="6060" y="5251"/>
+	<marker class="DEGRADED" id="s298" name="a523_degraded" x="4020" y="4159"/>
+	<marker class="DEGRADED" id="s955" name="a796_degraded" x="2499" y="2996"/>
+	<marker class="DEGRADED" id="s956" name="a839_degraded" x="2351" y="3000"/>
+	<marker class="PHENOTYPE" id="s1403" name="actin&lt;br/&gt;organization" x="3492" y="3858"/>
+	<marker class="PHENOTYPE" id="s1527" name="apoptosis" x="2106" y="5702"/>
+	<marker class="PHENOTYPE" id="s1503" name="apoptosis" x="5431" y="3376"/>
+	<marker class="PROTEIN" id="s602" name="c-Cbl" x="2988" y="4198"/>
+	<marker class="PROTEIN" id="s601" name="c-Cbl" x="2823" y="4197"/>
+	<marker class="PROTEIN" id="s356" name="c-Fos" x="3532" y="5733"/>
+	<marker class="PROTEIN" id="s1070" name="c-Fos" x="3432" y="5603"/>
+	<marker class="PROTEIN" id="s1071" name="c-Fos" x="3709" y="5604"/>
+	<marker class="PROTEIN" id="s407" name="c-Fos" x="3118" y="5716"/>
+	<marker class="PROTEIN" id="s1081" name="c-Jun" x="3656" y="5773"/>
+	<marker class="PROTEIN" id="s405" name="c-Jun" x="3233" y="5744"/>
+	<marker class="PROTEIN" id="s355" name="c-Jun" x="3530" y="5684"/>
+	<marker class="PROTEIN" id="s1069" name="c-Jun" x="3763" y="5801"/>
+	<marker class="PROTEIN" id="s408" name="c-Jun" x="3118" y="5672"/>
+	<marker class="PROTEIN" id="s1073" name="c-Jun" x="3765" y="5709"/>
+	<marker class="PROTEIN" id="s1136" name="c-Myc" x="3307" y="5491"/>
+	<marker class="PROTEIN" id="s1137" name="c-Myc" x="3308" y="5624"/>
+	<marker class="PROTEIN" id="s1494" name="c-Src" x="6353" y="4773"/>
+	<marker class="PROTEIN" id="s1494" name="c-Src" x="3455" y="4147"/>
+	<marker class="PROTEIN" id="s479" name="c-Src" x="6494" y="4776"/>
+	<marker class="GENE" id="s1083" name="c-fos" x="3428" y="5871"/>
+	<marker class="GENE" id="s1082" name="c-jun" x="3759" y="5920"/>
+	<marker class="PROTEIN" id="s1406" name="calpain" x="6534" y="3531"/>
+	<marker class="PROTEIN" id="s466" name="calpain" x="6554" y="3424"/>
+	<marker class="PROTEIN" id="s752" name="caspase 3" x="4012" y="4353"/>
+	<marker class="PROTEIN" id="s961" name="caspase8" x="5267" y="3372"/>
+	<marker class="PROTEIN" id="s888" name="caspase9" x="5564" y="3373"/>
+	<marker class="PHENOTYPE" id="s1138" name="cell cycle" x="3178" y="5624"/>
+	<marker class="SIMPLE_MOLECULE" id="s815" name="choline" x="1652" y="3897"/>
+	<marker class="SIMPLE_MOLECULE" id="s875" name="diaminopimelic&lt;br/&gt;   acid" x="5996" y="2642"/>
+	<marker class="SIMPLE_MOLECULE" id="s1484" name="dsRNA" x="5483" y="3773"/>
+	<marker class="SIMPLE_MOLECULE" id="s268" name="dsRNA" x="6008" y="2467"/>
+	<marker class="PROTEIN" id="s1112" name="eIF-4E" x="3336" y="5199"/>
+	<marker class="PROTEIN" id="s1113" name="eIF-4E" x="3336" y="5300"/>
+	<marker class="PROTEIN" id="s270" name="eIF2&amp;alpha;" x="5565" y="3839"/>
+	<marker class="PROTEIN" id="s269" name="eIF2&amp;alpha;" x="5380" y="3839"/>
+	<marker class="GENE" id="s1318" name="elk-1" x="4314" y="5885"/>
+	<marker class="PROTEIN" id="s583" name="full-length&lt;br/&gt;MEKK1" x="4013" y="4449"/>
+	<marker class="PROTEIN" id="s817" name="gp91&lt;sup&gt;phox&lt;/sup&gt;" x="2284" y="5106"/>
+	<marker class="PROTEIN" id="s416" name="gp91&lt;sup&gt;phox&lt;/sup&gt;" x="2448" y="5112"/>
+	<marker class="PROTEIN" id="s241" name="gp91&lt;sup&gt;phox&lt;/sup&gt;" x="2544" y="5021"/>
+	<marker class="PROTEIN" id="s1180" name="histone H3" x="4584" y="5687"/>
+	<marker class="PROTEIN" id="s1182" name="histone H3" x="4583" y="5801"/>
+	<marker class="PHENOTYPE" id="s1296" name="histone &lt;br/&gt;deacetylation" x="4957" y="5890"/>
+	<marker class="PROTEIN" id="s804" name="hnRNP A1" x="2111" y="5562"/>
+	<marker class="PROTEIN" id="s803" name="hnRNP A1" x="1843" y="5562"/>
+	<marker class="PROTEIN" id="s1276" name="importin &amp;alpha; 3" x="5014" y="5438"/>
+	<marker class="PROTEIN" id="s1277" name="importin &amp;alpha; 4" x="6364" y="5440"/>
+	<marker class="SIMPLE_MOLECULE" id="s1049" name="mRNA" x="2712" y="2468"/>
+	<marker class="SIMPLE_MOLECULE" id="s876" name="muramyl&lt;br/&gt;dipeptide" x="6131" y="2596"/>
+	<marker class="PROTEIN" id="s910" name="oxidized&lt;br/&gt;Trx" x="2737" y="5034"/>
+	<marker class="PROTEIN" id="s818" name="p22&lt;sup&gt;phox&lt;/sup&gt;" x="2283" y="5157"/>
+	<marker class="PROTEIN" id="s242" name="p22&lt;sup&gt;phox&lt;/sup&gt;" x="2624" y="5020"/>
+	<marker class="PROTEIN" id="s415" name="p22&lt;sup&gt;phox&lt;/sup&gt;" x="2448" y="5152"/>
+	<marker class="PROTEIN" id="s120" name="p38&amp;alpha; MAPK" x="4180" y="5499"/>
+	<marker class="PROTEIN" id="s1517" name="p38&amp;alpha; MAPK" x="3941" y="5499"/>
+	<marker class="PROTEIN" id="s1475" name="p38&amp;alpha; MAPK" x="3915" y="5202"/>
+	<marker class="PROTEIN" id="s202" name="p38&amp;beta; 2MAPK" x="4181" y="5607"/>
+	<marker class="PROTEIN" id="s1518" name="p38&amp;beta; 2MAPK" x="3886" y="5606"/>
+	<marker class="PROTEIN" id="s1478" name="p38&amp;beta; 2MAPK" x="3886" y="5324"/>
+	<marker class="PROTEIN" id="s246" name="p40&lt;sup&gt;phox&lt;/sup&gt;" x="2614" y="5111"/>
+	<marker class="PROTEIN" id="s821" name="p40&lt;sup&gt;phox&lt;/sup&gt;" x="2287" y="5054"/>
+	<marker class="PROTEIN" id="s243" name="p47&lt;sup&gt;phox&lt;/sup&gt;" x="2629" y="5062"/>
+	<marker class="PROTEIN" id="s823" name="p47&lt;sup&gt;phox&lt;/sup&gt;" x="2526" y="4913"/>
+	<marker class="PROTEIN" id="s820" name="p47&lt;sup&gt;phox&lt;/sup&gt;" x="2147" y="4912"/>
+	<marker class="PROTEIN" id="s764" name="p62" x="6334" y="4390"/>
+	<marker class="PROTEIN" id="s481" name="p62" x="6211" y="4282"/>
+	<marker class="PROTEIN" id="s756" name="p62" x="6334" y="4092"/>
+	<marker class="PROTEIN" id="s1427" name="p62" x="6040" y="4276"/>
+	<marker class="PROTEIN" id="s247" name="p67&lt;sup&gt;phox&lt;/sup&gt;" x="2537" y="5098"/>
+	<marker class="PROTEIN" id="s822" name="p67&lt;sup&gt;phox&lt;/sup&gt;" x="2288" y="4952"/>
+	<marker class="PROTEIN" id="s299" name="pellino1" x="4779" y="4240"/>
+	<marker class="PROTEIN" id="s1086" name="pellino2" x="4919" y="4240"/>
+	<marker class="PROTEIN" id="s735" name="pellino3" x="5043" y="3697"/>
+	<marker class="PROTEIN" id="s1488" name="pellino3" x="4888" y="3539"/>
+	<marker class="PROTEIN" id="s1488" name="pellino3" x="4176" y="5364"/>
+	<marker class="PROTEIN" id="s849" name="phosphatidic acid&lt;br/&gt;phosphatase " x="1861" y="4226"/>
+	<marker class="SIMPLE_MOLECULE" id="s810" name="phosphatidic&lt;br/&gt;acid" x="1720" y="4068"/>
+	<marker class="SIMPLE_MOLECULE" id="s814" name="phosphatidyl&lt;br/&gt;choline" x="1843" y="3892"/>
+	<marker class="SIMPLE_MOLECULE" id="s800" name="phosphatidyl&lt;br/&gt;serine" x="2172" y="4666"/>
+	<marker class="PROTEIN" id="s1404" name="pre IL-1&amp;alpha;" x="6554" y="3332"/>
+	<marker class="PROTEIN" id="s1405" name="pre IL-1&amp;beta;" x="6371" y="3374"/>
+	<marker class="PROTEIN" id="s326" name="pro-caspase8" x="5141" y="3286"/>
+	<marker class="PROTEIN" id="s959" name="pro-caspase8" x="4961" y="3238"/>
+	<marker class="PROTEIN" id="s364" name="pro-caspase9" x="5938" y="3484"/>
+	<marker class="PROTEIN" id="s367" name="pro-caspase9" x="6007" y="3585"/>
+	<marker class="PROTEIN" id="s884" name="pro-caspase9" x="6153" y="3462"/>
+	<marker class="SIMPLE_MOLECULE" id="s1035" name="profilin-like&lt;br/&gt;protein" x="5572" y="2457"/>
+	<marker class="PHENOTYPE" id="s271" name="protein&lt;br/&gt;systhesis" x="5565" y="3926"/>
+	<marker class="PROTEIN" id="s259" name="reduced&lt;br/&gt;Trx" x="2902" y="5258"/>
+	<marker class="PROTEIN" id="s909" name="reduced&lt;br/&gt;Trx" x="2737" y="5293"/>
+	<marker class="PROTEIN" id="s866" name="sCD14" x="3060" y="2752"/>
+	<marker class="PROTEIN" id="s254" name="sCD14" x="3235" y="2859"/>
+	<marker class="PROTEIN" id="s1456" name="sIL-1RI" x="6205" y="2727"/>
+	<marker class="PROTEIN" id="s1457" name="sIL-1RII" x="6206" y="2675"/>
+	<marker class="PROTEIN" id="s278" name="sST2" x="1681" y="3002"/>
+	<marker class="PROTEIN" id="s933" name="sST2" x="1681" y="2783"/>
+	<marker class="PROTEIN" id="s281" name="sST2&lt;br/&gt;receptor" x="1681" y="3034"/>
+	<marker class="PROTEIN" id="s936" name="sST2&lt;br/&gt;receptor" x="1744" y="2844"/>
+	<marker class="PROTEIN" id="s864" name="sTLR2" x="3060" y="2812"/>
+	<marker class="PROTEIN" id="s248" name="sTLR2" x="2922" y="2790"/>
+	<marker class="PROTEIN" id="s251" name="sTLR2" x="3233" y="2819"/>
+	<marker class="PROTEIN" id="s15" name="sTLR4" x="2249" y="2793"/>
+	<marker class="PROTEIN" id="s47" name="sTLR4" x="2354" y="2873"/>
+	<marker class="PROTEIN" id="s445" name="src-related&lt;br/&gt;tyrosine kinase" x="2506" y="3341"/>
+	<marker class="PROTEIN" id="s446" name="src-related&lt;br/&gt;tyrosine kinase*" x="2450" y="3460"/>
+	<marker class="SIMPLE_MOLECULE" id="s1027" name="ssRNA" x="5923" y="2470"/>
+	<marker class="PHENOTYPE" id="s1297" name="target gene&lt;br/&gt;ex. Bcl-2" x="4775" y="5891"/>
+	<marker class="PHENOTYPE" id="s1306" name="target genes&lt;br/&gt;   ex. ICER" x="2325" y="5743"/>
+	<marker class="PHENOTYPE" id="s1303" name="target genes&lt;br/&gt;   ex. &amp;beta; -defensin2" x="3015" y="5777"/>
+	<marker class="PHENOTYPE" id="s1304" name="target genes&lt;br/&gt;   ex. cyclin D1" x="4481" y="5880"/>
+	<marker class="PHENOTYPE" id="s1308" name="target genes&lt;br/&gt;ex. IFN&amp;alpha; /&amp;beta;" x="6606" y="5870"/>
+	<marker class="PHENOTYPE" id="s1290" name="target genes&lt;br/&gt;ex. IL-1, IL-8, IL-6, TNF&amp;alpha; , IFN&amp;gamma; , GM-CSF, M-CSF,&lt;br/&gt;iNOS, COX2, MHC class I / II, E-selectin, &amp;beta; -defensin2" x="5563" y="5875"/>
+	<marker class="PHENOTYPE" id="s1184" name="transcription" x="4642" y="5891"/>
+	<marker class="PHENOTYPE" id="s1135" name="translation" x="3337" y="5369"/>
+</markers>

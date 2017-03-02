@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<markers>
+	<marker class="COMPLEX" id="s5" name="Complex 1" x="737" y="535"/>
+	<marker class="GENE" id="s3" name="Gene 1" x="331" y="574"/>
+	<marker class="ION" id="s7" name="Ion 1" x="700" y="591"/>
+	<marker class="PROTEIN" id="s2" name="Protein 2" x="720" y="378">
+		<notes>
+<![CDATA[
+A comment on Protein 2.
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s6" name="Protein 2" x="717" y="528">
+		<notes>
+<![CDATA[
+A comment on the phosphorylated form of Protein 2.
+]]>		</notes>
+		<notes>
+<![CDATA[
+A comment on Protein 2.
+]]>		</notes>
+	</marker>
+	<marker class="PROTEIN" id="s1" name="Protein&lt;sub&gt;1&lt;/sub&gt;" x="513" y="378"/>
+	<marker class="RNA" id="s4" name="RNA 1" x="506" y="575"/>
+</markers>

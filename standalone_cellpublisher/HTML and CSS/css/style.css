@@ -1,0 +1,152 @@
+/* general settings for the page (map, sidebar, footer) */
+ 
+html, body {
+		height: 100%; /* needed for container min-height */
+		margin: 0;
+		padding: 0;
+		border: none;
+}
+ 
+body {
+		background-color: #ccffcc;
+		font-family: Calibri,Verdana,sans-serif;
+}
+
+.active ul{
+	display: block;
+}
+
+.inactive ul{
+	display: none;
+}
+
+#container {
+		position: relative; /* needed for footer positioning */
+		margin: 0 auto; /* center, not in IE5 */
+		width: 100%;
+		
+		height:auto !important; /* real browsers */
+		height:100%; /* IE6: treaded as min-height */
+		
+		min-height: 100%; /* real browsers */
+		
+}
+
+#header {
+	position: relative;
+	padding-left: 1em;
+	text-align: center;
+	border-width: 1px;
+	border-bottom-style : solid;
+	border-color: gray;
+	
+	width: 100%;
+	height: 5%;
+	
+}
+
+#pathway {
+	font-size: 2em;
+	
+}
+
+#author {
+	font-size: 1.5em;
+}
+
+#map {
+		position: absolute;
+		top: 5%;
+		margin-top: 1px;			
+		left: 0;
+		padding: 0;
+		width: 85%;
+		height: 90%;
+		border: none;
+		border-bottom: solid;
+		border-width: 1px;
+		border-color: gray;	
+}
+
+#map h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	
+}
+
+#side_bar {
+		
+		top: 5%;
+		overflow: auto;
+		text-decoration: underline;
+		color: #4444ff;
+		position: absolute;
+		right: 0;
+		padding: 0;
+		width: 15%;
+		height: 90%;
+		border-bottom: solid;
+		border-left: solid;
+		border-width: 1px;
+		border-color: gray;
+				
+}
+ 
+#form {
+		
+		position: absolute;
+		width: 90%;
+		padding-top:10px;
+		right: 5%;
+		bottom: 0;
+		padding: 0;
+		height: 5%;
+		border: none;
+		text-align: right;
+		
+}
+
+#pubChemImage, #applet0_appletinfotablediv {
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+#pubChemImage {
+	padding-right: 5px;
+}
+ 
+/* styles for the eLabels */
+ 
+.style1 {background-color:#ffffff;font-family:Calibri,Verdana,sans-serif;font-weight:bold;border:2px #006699 solid;}
+.style2 {background-color:#ffffff;font-family:Calibri,Verdana,sans-serif;font-weight:bold;border:2px #ff0000 solid;}
+ 
+ 
+/*CSS for Simple Tree Menu*/
+ 
+.treeview ul{ 
+	margin: 0;
+	padding: 0;
+}
+ 
+.treeview li{ /*Style for LI elements in general (excludes an LI that contains sub lists)*/
+	background: #ccffcc url(bullet.gif) no-repeat left center;
+	list-style-type: none;
+	padding-left: 22px;
+	margin-bottom: 3px;
+}
+ 
+.treeview li.submenu{ /* Style for LI that contains sub lists (other ULs). */
+	background: #ccffcc url(plus.gif) no-repeat left 1px;
+	cursor: hand !important;
+	cursor: pointer !important;
+}
+ 
+ 
+.treeview li.submenu ul{ /*Style for ULs that are children of LIs (submenu) */
+	display: none; /*Hide them by default. Don't delete. */
+}
+ 
+.treeview .submenu ul li{ /*Style for LIs of ULs that are children of LIs (submenu) */
+	cursor: default;
+}

@@ -1,0 +1,8 @@
+Acknowledgement:
+
+The CellDesigner file that is used as a test was developed by K. Oda and H. Kitano from the Systems Biology Institute in Tokyo, Japan.
+
+This is the paper that describes the diagram:
+
+Oda,K. & Kitano,H. (2006) A comprehensive map of the toll-like receptor signaling network. 
+Mol Syst Biol, 2, 10.1038/msb4100057. Available at: http://dx.doi.org/10.1038/msb4100057

@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+		<title>Pathway</title>
+		<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAdv_U95xs-4ol4uJZ4Zf62BRqj0BTAuXkKEb79I76lJBN5IA6axQ6P8pT8NMJ6oX2xz3lspaBmldZ4Q" type="text/javascript"></script>
+		<script src="scripts/markermanager.js" type="text/javascript"></script>
+		<script src="cellpublisher/customMap.js" type="text/javascript"></script>
+		<script src="cellpublisher/markers.js" type="text/javascript"></script>
+		<script src="cellpublisher/marker_links.js" type="text/javascript"></script>
+		<script src="cellpublisher/marker_checkboxes.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="./css/style.css" />
+	</head>
+	<body onunload="GUnload()">
+		<!-- fail nicely if the browser has no Javascript --> 
+		<noscript>
+			<b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+			However, it seems JavaScript is either disabled or not supported by your browser. 
+			To view the maps, enable JavaScript by changing your browser options, and then 
+			try again.
+		</noscript>
+
+		<div id="map"></div>
+		<div id="side_bar">
+			<div id="PROTEIN">
+				<h3>Proteins</h3>
+				<ul id="PROTEIN_list"></ul>
+			</div>
+			<div id="GENE">
+				<h3>Genes</h3>
+				<ul id="GENE_list"></ul>
+			</div>
+			<div id="SIMPLE_MOLECULE">
+				<h3>Simple molecules</h3> 
+				<ul id="SIMPLE_MOLECULE_list"></ul>
+			</div>
+			<div id="RNA">
+				<h3>RNAs</h3> 
+				<ul id="RNA_list"></ul>
+			</div>
+			<div id="COMPLEX">
+				<h3>Complexes</h3>
+				<ul id="COMPLEX_list"></ul>
+			</div>
+			<div id="ION">
+				<h3>Ions</h3>
+				<ul id="ION_list"></ul>
+			</div>
+			<div id="OTHER">
+				<h3>Other</h3>
+				<ul id="OTHER_list"></ul>
+			</div>
+		</div>
+		<div id="form">
+			<form action="#">
+				<input type="checkbox" name="PROTEIN" value="" checked="checked"/>Proteins
+				<input type="checkbox" name="RNA" value="" checked="checked"/>RNAs
+				<input type="checkbox" name="GENE" value="" checked="checked"/>Genes
+				<input type="checkbox" name="SIMPLE_MOLECULE" value="" checked="checked"/>Small molecules
+				<input type="checkbox" name="ION" value="" checked="checked"/>Ions
+				<input type="checkbox" name="COMPLEX" value="" checked="checked"/>Complexes
+				<input type="checkbox" name="OTHER" value="" checked="checked"/>Other
+			</form>
+		</div>
+		
+		<script type="text/javascript">
+			
+			var settingsCustomMap = {
+				copyright_owner: "Owner",
+				maxZoom: 5,
+				div: "map"
+			};
+			
+			var customMap = cellpublisher.customMap.createCustomMap(settingsCustomMap);
+			
+			var settingsMarkers = {
+				xml: "xml/markers.xml",
+				map: customMap,
+				maxZoom: 5
+			}
+			
+			var markers = cellpublisher.markers.createMarkers(settingsMarkers);
+			//alert(markers.length);
+			
+			cellpublisher.marker_links.create_side_bar(markers);
+			cellpublisher.marker_checkboxes.activate_checkboxes();
+			
+			
+		</script>
+	</body>
+</html>

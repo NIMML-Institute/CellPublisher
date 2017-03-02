@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+		<title>$title</title>
+		$scripts
+		<link rel="stylesheet" type="text/css" href="./css/style.css" />
+	</head>
+	<body onunload="GUnload()">
+		<!-- fail nicely if the browser has no Javascript --> 
+		<noscript>
+			<b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+			However, it seems JavaScript is either disabled or not supported by your browser. 
+			To view the maps, enable JavaScript by changing your browser options, and then 
+			try again.
+		</noscript>
+		<div id="header"><span id="pathway">"$title"</span> <span id="author"></span></div>
+		<div id="map"></div>
+		<div id="side_bar">
+			<div id="PROTEIN">
+				<h3>Proteins</h3>
+				<ul id="PROTEIN_list"></ul>
+			</div>
+			<div id="GENE">
+				<h3>Genes</h3>
+				<ul id="GENE_list"></ul>
+			</div>
+			<div id="SIMPLE_MOLECULE">
+				<h3>Simple molecules</h3> 
+				<ul id="SIMPLE_MOLECULE_list"></ul>
+			</div>
+			<div id="RNA">
+				<h3>RNAs</h3> 
+				<ul id="RNA_list"></ul>
+			</div>
+			<div id="COMPLEX">
+				<h3>Complexes</h3>
+				<ul id="COMPLEX_list"></ul>
+			</div>
+			<div id="ION">
+				<h3>Ions</h3>
+				<ul id="ION_list"></ul>
+			</div>
+			<div id="OTHER">
+				<h3>Other</h3>
+				<ul id="OTHER_list"></ul>
+			</div>
+		</div>
+		<div id="form">
+			<form action="#">
+				<input type="checkbox" name="PROTEIN" value="" checked="checked"/>Proteins
+				<input type="checkbox" name="RNA" value="" checked="checked"/>RNAs
+				<input type="checkbox" name="GENE" value="" checked="checked"/>Genes
+				<input type="checkbox" name="SIMPLE_MOLECULE" value="" checked="checked"/>Small molecules
+				<input type="checkbox" name="ION" value="" checked="checked"/>Ions
+				<input type="checkbox" name="COMPLEX" value="" checked="checked"/>Complexes
+				<input type="checkbox" name="OTHER" value="" checked="checked"/>Other
+			</form>
+		</div>
+		
+		<script type="text/javascript">
+						
+			var settingsCustomMap = {
+				copyright_owner: "$author",
+				maxZoom: 3,
+				div: "map"
+			};
+			
+			var customMap = cellpublisher.customMap.createCustomMap(settingsCustomMap);
+			var MM = new MarkerManager(customMap);
+
+            // Wait for idle map
+            var Init = google.maps.event.addListener(customMap, 'idle', function() {
+				var settingsMarkers = {
+					xml: "xml/markers.xml",
+					map: customMap,
+					mm: MM,
+					minZoom: 2,
+					maxZoom: settingsCustomMap.maxZoom
+				}
+				
+				google.maps.event.removeListener(Init);
+			
+				var markers = cellpublisher.markers.createMarkers(settingsMarkers);
+			
+				cellpublisher.marker_links.create_side_bar(markers);
+				cellpublisher.marker_checkboxes.activate_checkboxes();
+				
+				customMap.setZoom(2);
+			});
+			
+			google.maps.event.addListener(customMap, 'zoom_changed', function() {
+				Jmol._destroy(window.applet0);
+				window.applet0 = null;
+				cellpublisher.infoWindow.close();
+			});
+		</script>
+	</body>
+</html>
